@@ -11,12 +11,12 @@
 
 ### Representation Learning
 * User Profiling through Deep Multimodal Fusion [[Link]](https://faculty.washington.edu/mdecock/papers/gfarnadi2018a.pdf)
-* DAC: Deep Autoencoder-based Clustering, a General Deep Learning Framework of Representation Learning [[Link]](https://arxiv.org/abs/2102.07472)
+* DAC: Deep Autoencoder-based Clustering [[Link]](https://arxiv.org/abs/2102.07472)
 * Time2Vec: Learning a Vector Representation of Time [[Link]](https://arxiv.org/abs/1907.05321)
 * Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks [[Link]](https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019.pdf)
 
 ### Tabular Data
-* DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems [[Link]](https://arxiv.org/abs/2008.13535)
+* DCN V2: Improved Deep & Cross Network and Practical Lessons [[Link]](https://arxiv.org/abs/2008.13535)
 * Deep & Cross Network for Ad Click Predictions [[Link]](https://arxiv.org/abs/1708.05123)
 * Predicting Customer Churn: Extreme Gradient Boosting with Temporal Data [[Link]](https://arxiv.org/abs/1802.03396)
 * Revisiting Deep Learning Models for Tabular Data [[Link]](https://arxiv.org/abs/2106.11959)
