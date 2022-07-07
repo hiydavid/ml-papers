@@ -1,7 +1,7 @@
 # ML Papers
 
 ## To-Read
-* An Embedding Learning Framework for Numerical Features in CTR Prediction [[Linke]](https://arxiv.org/abs/2012.08986)
+* An Embedding Learning Framework for Numerical Features in CTR Prediction [[Link]](https://arxiv.org/abs/2012.08986)
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
 
 ## Read
