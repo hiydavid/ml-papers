@@ -1,6 +1,7 @@
 # ML Papers
 
 ## To-Read
+* Temporal Graph Networks for Deep Learning on Dynamic Graphs [[Link]](https://arxiv.org/abs/2006.10637)
 * An Embedding Learning Framework for Numerical Features in CTR Prediction [[Link]](https://arxiv.org/abs/2012.08986)
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
 * DeepGBM: A Deep Learning Framework Distilled by GBDT [[Link]](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/deepgbm_kdd2019__CR_.pdf)
