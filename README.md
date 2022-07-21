@@ -2,8 +2,10 @@
 
 ## To-Read
 * Temporal Graph Networks for Deep Learning on Dynamic Graphs [[Link]](https://arxiv.org/abs/2006.10637)
-* An Embedding Learning Framework for Numerical Features in CTR Prediction [[Link]](https://arxiv.org/abs/2012.08986)
+* Why Do Tree-Based Models Still Outperform Deep Learning on Tabular Data [[Link]](https://arxiv.org/abs/2207.08815)
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
+* Machine Learning Operations (MLOps): Overview, Definition, and Architecture [[Link]](https://arxiv.org/abs/2205.02302)
+* Machine Learning Operations: A Survey on MLOps Tool Support [[Link]](https://arxiv.org/abs/2202.10169)
 * DeepGBM: A Deep Learning Framework Distilled by GBDT [[Link]](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/deepgbm_kdd2019__CR_.pdf)
 * Cyclical Focal Loss [[Link]](https://arxiv.org/abs/2202.08978)
 * Forecast Evaluation for Data Scientists: Common Pitfalls and Best Practices [[Link]](https://arxiv.org/abs/2203.10716)
@@ -21,6 +23,7 @@
 * Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks [[Link]](https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019.pdf)
 
 ### Tabular Data
+* An Embedding Learning Framework for Numerical Features in CTR Prediction [[Link]](https://arxiv.org/abs/2012.08986)
 * DCN V2: Improved Deep & Cross Network and Practical Lessons [[Link]](https://arxiv.org/abs/2008.13535)
 * Deep & Cross Network for Ad Click Predictions [[Link]](https://arxiv.org/abs/1708.05123)
 * Predicting Customer Churn: Extreme Gradient Boosting with Temporal Data [[Link]](https://arxiv.org/abs/1802.03396)
