@@ -6,6 +6,8 @@
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
 * Machine Learning Operations (MLOps): Overview, Definition, and Architecture [[Link]](https://arxiv.org/abs/2205.02302)
 * Machine Learning Operations: A Survey on MLOps Tool Support [[Link]](https://arxiv.org/abs/2202.10169)
+* A Comparative study of Hyper-Parameter Optimization Tools [[Link]](https://arxiv.org/abs/2201.06433)
+* Churn Prediction with Sequential Data and Deep Neural Networks [[Link]](https://arxiv.org/abs/1909.11114)
 * DeepGBM: A Deep Learning Framework Distilled by GBDT [[Link]](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/deepgbm_kdd2019__CR_.pdf)
 * Cyclical Focal Loss [[Link]](https://arxiv.org/abs/2202.08978)
 * Forecast Evaluation for Data Scientists: Common Pitfalls and Best Practices [[Link]](https://arxiv.org/abs/2203.10716)
