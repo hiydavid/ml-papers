@@ -1,7 +1,6 @@
 # ML Papers
 
 ## To-Read
-* Temporal Graph Networks for Deep Learning on Dynamic Graphs [[Link]](https://arxiv.org/abs/2006.10637)
 * Why Do Tree-Based Models Still Outperform Deep Learning on Tabular Data [[Link]](https://arxiv.org/abs/2207.08815)
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
 * Machine Learning Operations (MLOps): Overview, Definition, and Architecture [[Link]](https://arxiv.org/abs/2205.02302)
@@ -15,6 +14,7 @@
 
 ## Read
 ### Graph Neural Networks
+* Temporal Graph Networks for Deep Learning on Dynamic Graphs [[Link]](https://arxiv.org/abs/2006.10637)
 * A Review on Graph Neural Network Methods in Financial Applications [[Link]](https://arxiv.org/abs/2111.15367)
 * A Survey on Graph Representation Learning Methods[[Link]](https://arxiv.org/abs/2204.01855v2)
 
