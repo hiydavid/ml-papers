@@ -4,6 +4,7 @@
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
 * A Comparative Study of Hyper-Parameter Optimization Tools [[Link]](https://arxiv.org/abs/2201.06433)
 * Churn Prediction with Sequential Data and Deep Neural Networks [[Link]](https://arxiv.org/abs/1909.11114)
+* Time2Vec: Learning a Vector Representation of Time [[Link]](https://arxiv.org/abs/1907.05321)
 * DeepGBM: A Deep Learning Framework Distilled by GBDT [[Link]](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/deepgbm_kdd2019__CR_.pdf)
 * Cyclical Focal Loss [[Link]](https://arxiv.org/abs/2202.08978)
 * Forecast Evaluation for Data Scientists: Common Pitfalls and Best Practices [[Link]](https://arxiv.org/abs/2203.10716)
@@ -19,7 +20,6 @@
 ### Representation Learning
 * User Profiling through Deep Multimodal Fusion [[Link]](https://faculty.washington.edu/mdecock/papers/gfarnadi2018a.pdf)
 * DAC: Deep Autoencoder-based Clustering [[Link]](https://arxiv.org/abs/2102.07472)
-* Time2Vec: Learning a Vector Representation of Time [[Link]](https://arxiv.org/abs/1907.05321)
 * Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks [[Link]](https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019.pdf)
 
 ### Tabular Data
