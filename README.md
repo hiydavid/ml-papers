@@ -2,14 +2,13 @@
 
 ## To-Read
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
-* Machine Learning Operations (MLOps): Overview, Definition, and Architecture [[Link]](https://arxiv.org/abs/2205.02302)
-* Machine Learning Operations: A Survey on MLOps Tool Support [[Link]](https://arxiv.org/abs/2202.10169)
-* A Comparative study of Hyper-Parameter Optimization Tools [[Link]](https://arxiv.org/abs/2201.06433)
+* A Comparative Study of Hyper-Parameter Optimization Tools [[Link]](https://arxiv.org/abs/2201.06433)
 * Churn Prediction with Sequential Data and Deep Neural Networks [[Link]](https://arxiv.org/abs/1909.11114)
 * DeepGBM: A Deep Learning Framework Distilled by GBDT [[Link]](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/deepgbm_kdd2019__CR_.pdf)
 * Cyclical Focal Loss [[Link]](https://arxiv.org/abs/2202.08978)
 * Forecast Evaluation for Data Scientists: Common Pitfalls and Best Practices [[Link]](https://arxiv.org/abs/2203.10716)
 * On the Measure of Intelligence [[Link]](https://arxiv.org/abs/1911.01547)
+* The Spelled-Out Intro to Neural Networks and Backpropagation: Building Micrograd [[Link](https://youtu.be/VMj-3S1tku0)]
 
 ## Read
 ### Graph Neural Networks
@@ -47,13 +46,14 @@
 * Machine Learning vs Statistical Methods for Time Series Forecasting: Size Matters [[Link]](https://arxiv.org/abs/1909.13316)
 
 ### Machine Learning General
+* Machine Learning Operations (MLOps): Overview, Definition, and Architecture [[Link]](https://arxiv.org/abs/2205.02302)
 * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[Link]](https://arxiv.org/abs/1502.03167)
 * Deep Residual Learning for Image Recognition [[Link]](https://arxiv.org/abs/1512.03385)
 * A Unified Approach to Interpreting Model Predictions [[Link]](https://arxiv.org/abs/1705.07874)
 * Focal Loss for Dense Object Detection [[Link]](https://arxiv.org/abs/1708.02002)
 * Cyclical Learning Rates for Training Neural Networks [[Link]](https://arxiv.org/abs/1506.01186)
 
-### Blogposts
+### Blogposts / Presentations
 * An Overview of Gradient Descent Optimization Algorithms [[Link]](https://ruder.io/optimizing-gradient-descent/)
 * An Updated Overview of Gradient Descent Optimization Algorithms [[Link]](https://johnchenresearch.github.io/demon/)
 * A Recipe for Training Neural Networks[[Link]](https://karpathy.github.io/2019/04/25/recipe/)
