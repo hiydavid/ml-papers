@@ -9,7 +9,6 @@
 * Cyclical Focal Loss [[Link]](https://arxiv.org/abs/2202.08978)
 * Forecast Evaluation for Data Scientists: Common Pitfalls and Best Practices [[Link]](https://arxiv.org/abs/2203.10716)
 * On the Measure of Intelligence [[Link]](https://arxiv.org/abs/1911.01547)
-* The Spelled-Out Intro to Neural Networks and Backpropagation: Building Micrograd [[Link](https://youtu.be/VMj-3S1tku0)]
 
 ## Read
 ### Graph Neural Networks
@@ -58,3 +57,4 @@
 * An Updated Overview of Gradient Descent Optimization Algorithms [[Link]](https://johnchenresearch.github.io/demon/)
 * A Recipe for Training Neural Networks[[Link]](https://karpathy.github.io/2019/04/25/recipe/)
 * Deep Neural Nets: 33 Years Ago and 33 Years From Now [[Link]](https://karpathy.github.io/2022/03/14/lecun1989/)
+* The Spelled-Out Intro to Neural Networks and Backpropagation: Building Micrograd [[Link](https://youtu.be/VMj-3S1tku0)]
