@@ -59,4 +59,5 @@
 * A Recipe for Training Neural Networks[[Link]](https://karpathy.github.io/2019/04/25/recipe/)
 * Deep Neural Nets: 33 Years Ago and 33 Years From Now [[Link]](https://karpathy.github.io/2022/03/14/lecun1989/)
 * The Spelled-Out Intro to Neural Networks and Backpropagation: Building Micrograd [[Link]](https://youtu.be/VMj-3S1tku0)
-* The Spelled-Out Intro to Language Modeling: Building MakeMore Pt.1 [[Link]](https://youtu.be/PaCmpygFfXo)
+* The Spelled-Out Intro to Language Modeling: Pt.1 MakeMore with Bigrams [[Link]](https://youtu.be/PaCmpygFfXo)
+* The Spelled-Out Intro to Language Modeling: Pt.2 MakeMore with MLP [[Link]](https://youtu.be/TCH_1BHY58I)
