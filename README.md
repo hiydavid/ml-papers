@@ -61,3 +61,4 @@
 * The Spelled-Out Intro to Neural Networks and Backpropagation: Building Micrograd [[Link]](https://youtu.be/VMj-3S1tku0)
 * The Spelled-Out Intro to Language Modeling: Pt.1 MakeMore with Bigrams [[Link]](https://youtu.be/PaCmpygFfXo)
 * The Spelled-Out Intro to Language Modeling: Pt.2 MakeMore with MLP [[Link]](https://youtu.be/TCH_1BHY58I)
+* The Spelled-Out Intro to Language Modeling: Pt.3 Activation, Gradients, BatchNorm [[Link]](https://youtu.be/P6sfmUTpUmc)
