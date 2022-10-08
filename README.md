@@ -1,6 +1,7 @@
 # ML Papers
 
 ## To-Read
+* PyTorch Tabular: A Framework for Deep Learning with Tabular Data [[Link]](https://arxiv.org/abs/2104.13638)
 * Abuse and Fraud Detection in Streaming Services Using Heuristic-Aware Machine Learning [[Link]](https://arxiv.org/abs/2203.02124)
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
 * A Comparative Study of Hyper-Parameter Optimization Tools [[Link]](https://arxiv.org/abs/2201.06433)
