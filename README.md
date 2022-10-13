@@ -64,3 +64,4 @@
 * The Spelled-Out Intro to Language Modeling: Pt.1 MakeMore with Bigrams [[Link]](https://youtu.be/PaCmpygFfXo)
 * The Spelled-Out Intro to Language Modeling: Pt.2 MakeMore with MLP [[Link]](https://youtu.be/TCH_1BHY58I)
 * The Spelled-Out Intro to Language Modeling: Pt.3 Activation, Gradients, BatchNorm [[Link]](https://youtu.be/P6sfmUTpUmc)
+* The Spelled-Out Intro to Language Modeling: Pt.4 Becoming a Backprop Ninja [[Link]](https://youtu.be/q8SA3rM6ckI)
