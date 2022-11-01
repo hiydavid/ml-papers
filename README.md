@@ -2,7 +2,6 @@
 
 ## To-Read
 * Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[Link]](https://arxiv.org/abs/1905.07697)
-* PyTorch Tabular: A Framework for Deep Learning with Tabular Data [[Link]](https://arxiv.org/abs/2104.13638)
 * Abuse and Fraud Detection in Streaming Services Using Heuristic-Aware Machine Learning [[Link]](https://arxiv.org/abs/2203.02124)
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
 * A Comparative Study of Hyper-Parameter Optimization Tools [[Link]](https://arxiv.org/abs/2201.06433)
@@ -25,6 +24,7 @@
 * Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks [[Link]](https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019.pdf)
 
 ### Tabular Data
+* PyTorch Tabular: A Framework for Deep Learning with Tabular Data [[Link]](https://arxiv.org/abs/2104.13638)
 * Why Do Tree-Based Models Still Outperform Deep Learning on Tabular Data [[Link]](https://arxiv.org/abs/2207.08815)
 * An Embedding Learning Framework for Numerical Features in CTR Prediction [[Link]](https://arxiv.org/abs/2012.08986)
 * DCN V2: Improved Deep & Cross Network and Practical Lessons [[Link]](https://arxiv.org/abs/2008.13535)
