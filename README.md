@@ -1,12 +1,15 @@
 # ML Papers
 
 ## To-Read
+* WeightedSHAP: analyzing and improving Shapley based feature attributions [[Link]](https://arxiv.org/abs/2209.13429)
 * Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[Link]](https://arxiv.org/abs/1905.07697)
 * Abuse and Fraud Detection in Streaming Services Using Heuristic-Aware Machine Learning [[Link]](https://arxiv.org/abs/2203.02124)
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
+* Monolith: Real Time Recommendation System with Collisionless Embedding Table [[Link]](https://arxiv.org/abs/2209.07663)
 * A Comparative Study of Hyper-Parameter Optimization Tools [[Link]](https://arxiv.org/abs/2201.06433)
 * Churn Prediction with Sequential Data and Deep Neural Networks [[Link]](https://arxiv.org/abs/1909.11114)
 * Time2Vec: Learning a Vector Representation of Time [[Link]](https://arxiv.org/abs/1907.05321)
+* TabDDPM: Modelling Tabular Data with Diffusion Models [[Link]](https://arxiv.org/abs/2209.15421)
 * DeepGBM: A Deep Learning Framework Distilled by GBDT [[Link]](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/deepgbm_kdd2019__CR_.pdf)
 * Cyclical Focal Loss [[Link]](https://arxiv.org/abs/2202.08978)
 * Forecast Evaluation for Data Scientists: Common Pitfalls and Best Practices [[Link]](https://arxiv.org/abs/2203.10716)
