@@ -1,8 +1,6 @@
 # ML Papers
 
 ## To-Read
-* WeightedSHAP: analyzing and improving Shapley based feature attributions [[Link]](https://arxiv.org/abs/2209.13429)
-* The Shapley Value in Machine Learning [[Link]](https://arxiv.org/abs/2202.05594)
 * Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning [[Link]](https://arxiv.org/abs/1609.06570)
 * Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[Link]](https://arxiv.org/abs/1905.07697)
 * Abuse and Fraud Detection in Streaming Services Using Heuristic-Aware Machine Learning [[Link]](https://arxiv.org/abs/2203.02124)
@@ -18,6 +16,15 @@
 * On the Measure of Intelligence [[Link]](https://arxiv.org/abs/1911.01547)
 
 ## Read
+### Machine Learning General
+* WeightedSHAP: analyzing and improving Shapley based feature attributions [[Link]](https://arxiv.org/abs/2209.13429)
+* Machine Learning Operations (MLOps): Overview, Definition, and Architecture [[Link]](https://arxiv.org/abs/2205.02302)
+* Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[Link]](https://arxiv.org/abs/1502.03167)
+* Deep Residual Learning for Image Recognition [[Link]](https://arxiv.org/abs/1512.03385)
+* A Unified Approach to Interpreting Model Predictions [[Link]](https://arxiv.org/abs/1705.07874)
+* Focal Loss for Dense Object Detection [[Link]](https://arxiv.org/abs/1708.02002)
+* Cyclical Learning Rates for Training Neural Networks [[Link]](https://arxiv.org/abs/1506.01186)
+
 ### Graph Neural Networks
 * Temporal Graph Networks for Deep Learning on Dynamic Graphs [[Link]](https://arxiv.org/abs/2006.10637)
 * A Review on Graph Neural Network Methods in Financial Applications [[Link]](https://arxiv.org/abs/2111.15367)
@@ -51,14 +58,6 @@
 * An Experimental Review on Deep Learning Architectures for Time Series Forecasting [[Link]](https://arxiv.org/abs/2103.12057)
 * Do We Really Need Deep Learning Models for Time Series Forecasting? [[Link]](https://arxiv.org/abs/2101.02118)
 * Machine Learning vs Statistical Methods for Time Series Forecasting: Size Matters [[Link]](https://arxiv.org/abs/1909.13316)
-
-### Machine Learning General
-* Machine Learning Operations (MLOps): Overview, Definition, and Architecture [[Link]](https://arxiv.org/abs/2205.02302)
-* Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[Link]](https://arxiv.org/abs/1502.03167)
-* Deep Residual Learning for Image Recognition [[Link]](https://arxiv.org/abs/1512.03385)
-* A Unified Approach to Interpreting Model Predictions [[Link]](https://arxiv.org/abs/1705.07874)
-* Focal Loss for Dense Object Detection [[Link]](https://arxiv.org/abs/1708.02002)
-* Cyclical Learning Rates for Training Neural Networks [[Link]](https://arxiv.org/abs/1506.01186)
 
 ### Blogposts / Presentations
 * An Overview of Gradient Descent Optimization Algorithms [[Link]](https://ruder.io/optimizing-gradient-descent/)
