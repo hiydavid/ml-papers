@@ -2,6 +2,7 @@
 
 ## To-Read
 * WeightedSHAP: analyzing and improving Shapley based feature attributions [[Link]](https://arxiv.org/abs/2209.13429)
+* The Shapley Value in Machine Learning [[Link]](https://arxiv.org/abs/2202.05594)
 * Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning [[Link]](https://arxiv.org/abs/1609.06570)
 * Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[Link]](https://arxiv.org/abs/1905.07697)
 * Abuse and Fraud Detection in Streaming Services Using Heuristic-Aware Machine Learning [[Link]](https://arxiv.org/abs/2203.02124)
