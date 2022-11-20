@@ -2,7 +2,6 @@
 
 ## To-Read
 * Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[Link]](https://arxiv.org/abs/1905.07697)
-* Abuse and Fraud Detection in Streaming Services Using Heuristic-Aware Machine Learning [[Link]](https://arxiv.org/abs/2203.02124)
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
 * Monolith: Real Time Recommendation System with Collisionless Embedding Table [[Link]](https://arxiv.org/abs/2209.07663)
 * A Comparative Study of Hyper-Parameter Optimization Tools [[Link]](https://arxiv.org/abs/2201.06433)
@@ -16,6 +15,7 @@
 
 ## Read
 ### Machine Learning General
+* Abuse and Fraud Detection in Streaming Services Using Heuristic-Aware Machine Learning [[Link]](https://arxiv.org/abs/2203.02124)
 * WeightedSHAP: analyzing and improving Shapley based feature attributions [[Link]](https://arxiv.org/abs/2209.13429)
 * Machine Learning Operations (MLOps): Overview, Definition, and Architecture [[Link]](https://arxiv.org/abs/2205.02302)
 * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[Link]](https://arxiv.org/abs/1502.03167)
