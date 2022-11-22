@@ -1,6 +1,7 @@
 # ML Papers
 
 ## To-Read
+* Discovering Faster Matrix Multiplication Algorithms with Reinforcement Learning [[Link]](https://www.nature.com/articles/s41586-022-05172-4)
 * Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[Link]](https://arxiv.org/abs/1905.07697)
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
 * Monolith: Real Time Recommendation System with Collisionless Embedding Table [[Link]](https://arxiv.org/abs/2209.07663)
@@ -69,3 +70,4 @@
 * The Spelled-Out Intro to Language Modeling: Pt.2 MakeMore with MLP [[Link]](https://youtu.be/TCH_1BHY58I)
 * The Spelled-Out Intro to Language Modeling: Pt.3 Activation, Gradients, BatchNorm [[Link]](https://youtu.be/P6sfmUTpUmc)
 * The Spelled-Out Intro to Language Modeling: Pt.4 Becoming a Backprop Ninja [[Link]](https://youtu.be/q8SA3rM6ckI)
+* The Spelled-Out Intro to Language Modeling: Pt.5 WaveNet [[Link]](https://youtu.be/t3YJ5hKiMQ0)
