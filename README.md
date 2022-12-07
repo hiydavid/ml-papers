@@ -1,6 +1,7 @@
 # ML Papers
 
 ## To-Read
+* A High-Performance Customer Churn Prediction System based on Self-Attention [[Link]](https://arxiv.org/abs/2206.01523)
 * Revisiting Pretraining Objectivew for Tabular Deep Learning [[Link]](https://arxiv.org/abs/2207.03208)
 * Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[Link]](https://arxiv.org/abs/1905.07697)
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
