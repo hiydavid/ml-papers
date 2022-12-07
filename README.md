@@ -6,7 +6,6 @@
 * Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[Link]](https://arxiv.org/abs/1905.07697)
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
 * Monolith: Real Time Recommendation System with Collisionless Embedding Table [[Link]](https://arxiv.org/abs/2209.07663)
-* Churn Prediction with Sequential Data and Deep Neural Networks [[Link]](https://arxiv.org/abs/1909.11114)
 * Time2Vec: Learning a Vector Representation of Time [[Link]](https://arxiv.org/abs/1907.05321)
 * TabDDPM: Modelling Tabular Data with Diffusion Models [[Link]](https://arxiv.org/abs/2209.15421)
 * DeepGBM: A Deep Learning Framework Distilled by GBDT [[Link]](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/deepgbm_kdd2019__CR_.pdf)
@@ -51,6 +50,7 @@
 * XGBoost: A Scalable Tree Boosting System [[Link]](https://arxiv.org/abs/1603.02754)
 
 ### Time Series
+* Churn Prediction with Sequential Data and Deep Neural Networks [[Link]](https://arxiv.org/abs/1909.11114)
 * Forecasting with Tress [[Link]](https://www.sciencedirect.com/science/article/pii/S0169207021001679)
 * Deep Learning for Time Series Forecasting: Tutorial and Literature Survey [[Link]](https://arxiv.org/abs/2004.10240)
 * DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks [[Link]](https://arxiv.org/abs/1704.04110)
