@@ -9,9 +9,7 @@
 * Time2Vec: Learning a Vector Representation of Time [[Link]](https://arxiv.org/abs/1907.05321)
 * TabDDPM: Modelling Tabular Data with Diffusion Models [[Link]](https://arxiv.org/abs/2209.15421)
 * DeepGBM: A Deep Learning Framework Distilled by GBDT [[Link]](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/deepgbm_kdd2019__CR_.pdf)
-* Cyclical Focal Loss [[Link]](https://arxiv.org/abs/2202.08978)
 * Forecast Evaluation for Data Scientists: Common Pitfalls and Best Practices [[Link]](https://arxiv.org/abs/2203.10716)
-* On the Measure of Intelligence [[Link]](https://arxiv.org/abs/1911.01547)
 
 ## Read
 ### Machine Learning General
