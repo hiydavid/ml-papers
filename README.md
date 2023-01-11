@@ -1,6 +1,8 @@
 # ML Papers
 
 ## To-Read
+* A Deep Probabilistic Model for Customer Lifetime Value Prediction [[Link]](https://arxiv.org/abs/1912.07753)
+* Machine Learning and Causality: The Impact of Financial Crises on Growth [[Link]](shorturl.at/izFMR)
 * TabNet: Attentive Interpretable Tabular Learning [[Link]](https://arxiv.org/abs/1908.07442)
 * TabTransformer: Tabular Data Modeling Using Contextual Embeddings [[Link]](https://arxiv.org/abs/2012.06678)
 * Entity Embeddings of Categorical Variables [[Link]](https://arxiv.org/abs/1604.06737)
