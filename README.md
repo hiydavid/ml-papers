@@ -77,3 +77,4 @@
 * The Spelled-Out Intro to Language Modeling: Pt.3 Activation, Gradients, BatchNorm [[Link]](https://youtu.be/P6sfmUTpUmc)
 * The Spelled-Out Intro to Language Modeling: Pt.4 Becoming a Backprop Ninja [[Link]](https://youtu.be/q8SA3rM6ckI)
 * The Spelled-Out Intro to Language Modeling: Pt.5 WaveNet [[Link]](https://youtu.be/t3YJ5hKiMQ0)
+* Let's Build GPT: From Scratch, In Code, Spelled Out [[Link]](https://youtu.be/kCc8FmEb1nY)
