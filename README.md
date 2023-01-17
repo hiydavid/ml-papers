@@ -2,7 +2,6 @@
 
 ## To-Read
 * A Deep Probabilistic Model for Customer Lifetime Value Prediction [[Link]](https://arxiv.org/abs/1912.07753)
-* Machine Learning and Causality: The Impact of Financial Crises on Growth [[Link]](shorturl.at/izFMR)
 * TabNet: Attentive Interpretable Tabular Learning [[Link]](https://arxiv.org/abs/1908.07442)
 * TabTransformer: Tabular Data Modeling Using Contextual Embeddings [[Link]](https://arxiv.org/abs/2012.06678)
 * Entity Embeddings of Categorical Variables [[Link]](https://arxiv.org/abs/1604.06737)
@@ -16,6 +15,7 @@
 
 ## Read
 ### Machine Learning General
+* Machine Learning and Causality: The Impact of Financial Crises on Growth [[Link]](shorturl.at/izFMR)
 * A Comparative Study of Hyper-Parameter Optimization Tools [[Link]](https://arxiv.org/abs/2201.06433)
 * Abuse and Fraud Detection in Streaming Services Using Heuristic-Aware Machine Learning [[Link]](https://arxiv.org/abs/2203.02124)
 * WeightedSHAP: analyzing and improving Shapley based feature attributions [[Link]](https://arxiv.org/abs/2209.13429)
