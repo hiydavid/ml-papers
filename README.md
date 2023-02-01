@@ -21,7 +21,6 @@
 ### Machine Learning General
 * Machine Learning and Causality: The Impact of Financial Crises on Growth [[Link]](shorturl.at/izFMR)
 * A Comparative Study of Hyper-Parameter Optimization Tools [[Link]](https://arxiv.org/abs/2201.06433)
-* Abuse and Fraud Detection in Streaming Services Using Heuristic-Aware Machine Learning [[Link]](https://arxiv.org/abs/2203.02124)
 * WeightedSHAP: analyzing and improving Shapley based feature attributions [[Link]](https://arxiv.org/abs/2209.13429)
 * Machine Learning Operations (MLOps): Overview, Definition, and Architecture [[Link]](https://arxiv.org/abs/2205.02302)
 * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[Link]](https://arxiv.org/abs/1502.03167)
@@ -30,6 +29,12 @@
 * Focal Loss for Dense Object Detection [[Link]](https://arxiv.org/abs/1708.02002)
 * Cyclical Learning Rates for Training Neural Networks [[Link]](https://arxiv.org/abs/1506.01186)
 * Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning [[Link]](https://arxiv.org/abs/1609.06570)
+
+## Business Problem Domains
+* Predicting Customer Churn: Extreme Gradient Boosting with Temporal Data [[Link]](https://arxiv.org/abs/1802.03396)
+* Behavioral Modeling for Churn Prediction [[Link]](https://arxiv.org/abs/1512.06430)
+* Deep & Cross Network for Ad Click Predictions [[Link]](https://arxiv.org/abs/1708.05123)
+* Abuse and Fraud Detection in Streaming Services Using Heuristic-Aware Machine Learning [[Link]](https://arxiv.org/abs/2203.02124)
 
 ### Graph Neural Networks
 * Temporal Graph Networks for Deep Learning on Dynamic Graphs [[Link]](https://arxiv.org/abs/2006.10637)
@@ -46,9 +51,6 @@
 * Why Do Tree-Based Models Still Outperform Deep Learning on Tabular Data [[Link]](https://arxiv.org/abs/2207.08815)
 * An Embedding Learning Framework for Numerical Features in CTR Prediction [[Link]](https://arxiv.org/abs/2012.08986)
 * DCN V2: Improved Deep & Cross Network and Practical Lessons [[Link]](https://arxiv.org/abs/2008.13535)
-* Deep & Cross Network for Ad Click Predictions [[Link]](https://arxiv.org/abs/1708.05123)
-* Predicting Customer Churn: Extreme Gradient Boosting with Temporal Data [[Link]](https://arxiv.org/abs/1802.03396)
-* Behavioral Modeling for Churn Prediction [[Link]](https://arxiv.org/abs/1512.06430)
 * Revisiting Deep Learning Models for Tabular Data [[Link]](https://arxiv.org/abs/2106.11959)
 * Tabular Data: Deep Learning is Not All You Need [[Link]](https://arxiv.org/abs/2106.03253?source=mlcontests)
 * Deep Neural Networks and Tabular Data: A Survey [[Link]](https://arxiv.org/abs/2110.01889)
