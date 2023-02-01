@@ -1,6 +1,8 @@
 # ML Papers
 
 ## To-Read
+* Predicting Customer Lifetime Values: E-Commerce Use Case [[Link]](https://arxiv.org/abs/2102.05771)
+* Billion-user Customer Lifetime Value Prediction [[Link]](https://arxiv.org/abs/2208.13358)
 * Causal Machine Learning: A Survey and Open Problems [[Link]](https://arxiv.org/abs/2206.15475)
 * Estimating Treatment Effects with Causal Forests: An Application [[Link]](https://arxiv.org/abs/1902.07409)
 * A Deep Probabilistic Model for Customer Lifetime Value Prediction [[Link]](https://arxiv.org/abs/1912.07753)
