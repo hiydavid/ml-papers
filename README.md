@@ -30,7 +30,7 @@
 * Cyclical Learning Rates for Training Neural Networks [[Link]](https://arxiv.org/abs/1506.01186)
 * Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning [[Link]](https://arxiv.org/abs/1609.06570)
 
-## Business Problem Domains
+### Business Problem Domains
 * Predicting Customer Churn: Extreme Gradient Boosting with Temporal Data [[Link]](https://arxiv.org/abs/1802.03396)
 * Behavioral Modeling for Churn Prediction [[Link]](https://arxiv.org/abs/1512.06430)
 * Deep & Cross Network for Ad Click Predictions [[Link]](https://arxiv.org/abs/1708.05123)
