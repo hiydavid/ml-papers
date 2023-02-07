@@ -1,11 +1,9 @@
 # ML Papers
 
 ## To-Read
-* Predicting Customer Lifetime Values: E-Commerce Use Case [[Link]](https://arxiv.org/abs/2102.05771)
 * Billion-user Customer Lifetime Value Prediction [[Link]](https://arxiv.org/abs/2208.13358)
 * Causal Machine Learning: A Survey and Open Problems [[Link]](https://arxiv.org/abs/2206.15475)
 * Estimating Treatment Effects with Causal Forests: An Application [[Link]](https://arxiv.org/abs/1902.07409)
-* A Deep Probabilistic Model for Customer Lifetime Value Prediction [[Link]](https://arxiv.org/abs/1912.07753)
 * TabNet: Attentive Interpretable Tabular Learning [[Link]](https://arxiv.org/abs/1908.07442)
 * TabTransformer: Tabular Data Modeling Using Contextual Embeddings [[Link]](https://arxiv.org/abs/2012.06678)
 * Entity Embeddings of Categorical Variables [[Link]](https://arxiv.org/abs/1604.06737)
@@ -31,6 +29,8 @@
 * Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning [[Link]](https://arxiv.org/abs/1609.06570)
 
 ### Business Problem Domains
+* Predicting Customer Lifetime Values: E-Commerce Use Case [[Link]](https://arxiv.org/abs/2102.05771)
+* A Deep Probabilistic Model for Customer Lifetime Value Prediction [[Link]](https://arxiv.org/abs/1912.07753)
 * Predicting Customer Churn: Extreme Gradient Boosting with Temporal Data [[Link]](https://arxiv.org/abs/1802.03396)
 * Behavioral Modeling for Churn Prediction [[Link]](https://arxiv.org/abs/1512.06430)
 * Deep & Cross Network for Ad Click Predictions [[Link]](https://arxiv.org/abs/1708.05123)
