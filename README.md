@@ -9,9 +9,6 @@
 * Estimating Treatment Effects with Causal Forests: An Application [[Link]](https://arxiv.org/abs/1902.07409)
 * TabNet: Attentive Interpretable Tabular Learning [[Link]](https://arxiv.org/abs/1908.07442)
 * TabTransformer: Tabular Data Modeling Using Contextual Embeddings [[Link]](https://arxiv.org/abs/2012.06678)
-* Entity Embeddings of Categorical Variables [[Link]](https://arxiv.org/abs/1604.06737)
-* A High-Performance Customer Churn Prediction System based on Self-Attention [[Link]](https://arxiv.org/abs/2206.01523)
-* Revisiting Pretraining Objectivew for Tabular Deep Learning [[Link]](https://arxiv.org/abs/2207.03208)
 * Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[Link]](https://arxiv.org/abs/1905.07697)
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
 * Monolith: Real Time Recommendation System with Collisionless Embedding Table [[Link]](https://arxiv.org/abs/2209.07663)
@@ -29,6 +26,7 @@
 * A Unified Approach to Interpreting Model Predictions [[Link]](https://arxiv.org/abs/1705.07874)
 * Focal Loss for Dense Object Detection [[Link]](https://arxiv.org/abs/1708.02002)
 * Cyclical Learning Rates for Training Neural Networks [[Link]](https://arxiv.org/abs/1506.01186)
+* Entity Embeddings of Categorical Variables [[Link]](https://arxiv.org/abs/1604.06737)
 * Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning [[Link]](https://arxiv.org/abs/1609.06570)
 
 ### Business Problem Domains
