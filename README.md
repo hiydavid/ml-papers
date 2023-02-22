@@ -1,17 +1,14 @@
 # ML Papers
 
 ## To-Read
-* Neural Collaborative Filtering [[Link]](https://arxiv.org/abs/1708.05031)
-* Behavior Sequence Transformer for E-commerce Recommendation in Alibaba [[Link]](https://arxiv.org/abs/1905.06874)
+* Understanding Survival Analysis: Kaplan-Meier Estiamte [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3059453/)
 * Imbalanced Classification via Explicit Gradient Learning From Augmented Data [[Link]](https://arxiv.org/abs/2202.10550)
-* Billion-user Customer Lifetime Value Prediction [[Link]](https://arxiv.org/abs/2208.13358)
 * Causal Machine Learning: A Survey and Open Problems [[Link]](https://arxiv.org/abs/2206.15475)
 * Estimating Treatment Effects with Causal Forests: An Application [[Link]](https://arxiv.org/abs/1902.07409)
 * TabNet: Attentive Interpretable Tabular Learning [[Link]](https://arxiv.org/abs/1908.07442)
 * TabTransformer: Tabular Data Modeling Using Contextual Embeddings [[Link]](https://arxiv.org/abs/2012.06678)
 * Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[Link]](https://arxiv.org/abs/1905.07697)
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Link]](https://arxiv.org/abs/2203.05556)
-* Monolith: Real Time Recommendation System with Collisionless Embedding Table [[Link]](https://arxiv.org/abs/2209.07663)
 * Time2Vec: Learning a Vector Representation of Time [[Link]](https://arxiv.org/abs/1907.05321)
 * TabDDPM: Modelling Tabular Data with Diffusion Models [[Link]](https://arxiv.org/abs/2209.15421)
 
