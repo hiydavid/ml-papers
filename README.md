@@ -1,7 +1,7 @@
 # ML Papers
 
 ## To-Read
-* Random Survival Forest [[link]](https://arxiv.org/abs/0811.1645)
+* Random Survival Forests [[link]](https://arxiv.org/abs/0811.1645)
 * Understanding Survival Analysis: Kaplan-Meier Estiamte [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3059453/)
 * Imbalanced Classification via Explicit Gradient Learning From Augmented Data [[Link]](https://arxiv.org/abs/2202.10550)
 * Causal Machine Learning: A Survey and Open Problems [[Link]](https://arxiv.org/abs/2206.15475)
