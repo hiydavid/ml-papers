@@ -71,6 +71,7 @@
 * Machine Learning vs Statistical Methods for Time Series Forecasting: Size Matters [[Link]](https://arxiv.org/abs/1909.13316)
 
 ### Blogposts / Presentations
+* XGBSE: Improving XGBoost for Survival Analysis [[Link]](https://towardsdatascience.com/xgbse-improving-xgboost-for-survival-analysis-393d47f1384a)
 * An Overview of Gradient Descent Optimization Algorithms [[Link]](https://ruder.io/optimizing-gradient-descent/)
 * An Updated Overview of Gradient Descent Optimization Algorithms [[Link]](https://johnchenresearch.github.io/demon/)
 * A Recipe for Training Neural Networks[[Link]](https://karpathy.github.io/2019/04/25/recipe/)
