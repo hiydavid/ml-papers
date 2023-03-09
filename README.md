@@ -1,6 +1,7 @@
 # ML Papers
 
 ## To-Read
+* Survival Regression with Accelerated Failure Time Model in XGBoost [[Link]](https://arxiv.org/abs/2006.04920)
 * Random Survival Forests [[link]](https://arxiv.org/abs/0811.1645)
 * Understanding Survival Analysis: Kaplan-Meier Estiamte [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3059453/)
 * Imbalanced Classification via Explicit Gradient Learning From Augmented Data [[Link]](https://arxiv.org/abs/2202.10550)
