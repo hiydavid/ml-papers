@@ -1,11 +1,7 @@
 # ML Papers
 
 ## To-Read
-* Survival Regression with Accelerated Failure Time Model in XGBoost [[Link]](https://arxiv.org/abs/2006.04920)
-* Random Survival Forests [[link]](https://arxiv.org/abs/0811.1645)
-* Understanding Survival Analysis: Kaplan-Meier Estiamte [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3059453/)
 * Imbalanced Classification via Explicit Gradient Learning From Augmented Data [[Link]](https://arxiv.org/abs/2202.10550)
-* Causal Machine Learning: A Survey and Open Problems [[Link]](https://arxiv.org/abs/2206.15475)
 * Estimating Treatment Effects with Causal Forests: An Application [[Link]](https://arxiv.org/abs/1902.07409)
 * TabNet: Attentive Interpretable Tabular Learning [[Link]](https://arxiv.org/abs/1908.07442)
 * TabTransformer: Tabular Data Modeling Using Contextual Embeddings [[Link]](https://arxiv.org/abs/2012.06678)
@@ -29,6 +25,9 @@
 * Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning [[Link]](https://arxiv.org/abs/1609.06570)
 
 ### Business Problem Domains
+* Survival Regression with Accelerated Failure Time Model in XGBoost [[Link]](https://arxiv.org/abs/2006.04920)
+* Random Survival Forests [[link]](https://arxiv.org/abs/0811.1645)
+* Understanding Survival Analysis: Kaplan-Meier Estiamte [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3059453/)
 * Predicting Customer Lifetime Values: E-Commerce Use Case [[Link]](https://arxiv.org/abs/2102.05771)
 * A Deep Probabilistic Model for Customer Lifetime Value Prediction [[Link]](https://arxiv.org/abs/1912.07753)
 * Predicting Customer Churn: Extreme Gradient Boosting with Temporal Data [[Link]](https://arxiv.org/abs/1802.03396)
