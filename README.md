@@ -57,7 +57,7 @@
 
 ### Time Series
 * Churn Prediction with Sequential Data and Deep Neural Networks [[Link]](https://arxiv.org/abs/1909.11114)
-* Forecasting with Tress [[Link]](https://www.sciencedirect.com/science/article/pii/S0169207021001679)
+* Forecasting with Trees [[Link]](https://www.sciencedirect.com/science/article/pii/S0169207021001679)
 * Deep Learning for Time Series Forecasting: Tutorial and Literature Survey [[Link]](https://arxiv.org/abs/2004.10240)
 * DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks [[Link]](https://arxiv.org/abs/1704.04110)
 * NeuralProphet: Explainable Forecasting at Scale [[Link]](https://arxiv.org/abs/2111.15397)
