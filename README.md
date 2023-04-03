@@ -1,6 +1,7 @@
 # ML Papers
 
 ## To-Read
+* Five Years of GPT Progress [[Link]](https://finbarr.ca/five-years-of-gpt-progress/)
 * Sparks of Artificial General Intelligence: Early Experiments with GPT-4 [[Link]](https://arxiv.org/pdf/2303.12712.pdf)
 * Imbalanced Classification via Explicit Gradient Learning From Augmented Data [[Link]](https://arxiv.org/abs/2202.10550)
 * Estimating Treatment Effects with Causal Forests: An Application [[Link]](https://arxiv.org/abs/1902.07409)
