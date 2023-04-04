@@ -28,8 +28,13 @@
 * Cyclical Learning Rates for Training Neural Networks [[Link]](https://arxiv.org/abs/1506.01186)
 * Entity Embeddings of Categorical Variables [[Link]](https://arxiv.org/abs/1604.06737)
 * Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning [[Link]](https://arxiv.org/abs/1609.06570)
+* An Overview of Gradient Descent Optimization Algorithms [[Link]](https://ruder.io/optimizing-gradient-descent/)
+* An Updated Overview of Gradient Descent Optimization Algorithms [[Link]](https://johnchenresearch.github.io/demon/)
+* A Recipe for Training Neural Networks[[Link]](https://karpathy.github.io/2019/04/25/recipe/)
+* Deep Neural Nets: 33 Years Ago and 33 Years From Now [[Link]](https://karpathy.github.io/2022/03/14/lecun1989/)
 
 ### Business Problem Domains
+* XGBSE: Improving XGBoost for Survival Analysis [[Link]](https://towardsdatascience.com/xgbse-improving-xgboost-for-survival-analysis-393d47f1384a)
 * Survival Regression with Accelerated Failure Time Model in XGBoost [[Link]](https://arxiv.org/abs/2006.04920)
 * Random Survival Forests [[link]](https://arxiv.org/abs/0811.1645)
 * Understanding Survival Analysis: Kaplan-Meier Estiamte [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3059453/)
@@ -74,12 +79,7 @@
 * Do We Really Need Deep Learning Models for Time Series Forecasting? [[Link]](https://arxiv.org/abs/2101.02118)
 * Machine Learning vs Statistical Methods for Time Series Forecasting: Size Matters [[Link]](https://arxiv.org/abs/1909.13316)
 
-### Blogposts / Presentations
-* XGBSE: Improving XGBoost for Survival Analysis [[Link]](https://towardsdatascience.com/xgbse-improving-xgboost-for-survival-analysis-393d47f1384a)
-* An Overview of Gradient Descent Optimization Algorithms [[Link]](https://ruder.io/optimizing-gradient-descent/)
-* An Updated Overview of Gradient Descent Optimization Algorithms [[Link]](https://johnchenresearch.github.io/demon/)
-* A Recipe for Training Neural Networks[[Link]](https://karpathy.github.io/2019/04/25/recipe/)
-* Deep Neural Nets: 33 Years Ago and 33 Years From Now [[Link]](https://karpathy.github.io/2022/03/14/lecun1989/)
+### Language Modeling
 * The Spelled-Out Intro to Neural Networks and Backpropagation: Building Micrograd [[Link]](https://youtu.be/VMj-3S1tku0)
 * The Spelled-Out Intro to Language Modeling: Pt.1 MakeMore with Bigrams [[Link]](https://youtu.be/PaCmpygFfXo)
 * The Spelled-Out Intro to Language Modeling: Pt.2 MakeMore with MLP [[Link]](https://youtu.be/TCH_1BHY58I)
