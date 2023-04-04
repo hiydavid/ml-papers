@@ -1,6 +1,7 @@
 # ML Papers
 
 ## To-Read
+* A Survey of Large Language Models [[Link]](https://arxiv.org/abs/2303.18223)
 * The Illustrated Transformer [[Link]](https://jalammar.github.io/illustrated-transformer/)
 * How GPT3 Works: Visualizations and Animations [[Link]](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * Five Years of GPT Progress [[Link]](https://finbarr.ca/five-years-of-gpt-progress/)
