@@ -1,6 +1,7 @@
 # ML Papers, Blogs, and Videos
 
 ## To-Read
+* Attention Is All Your Need [[Paper]](https://arxiv.org/abs/1706.03762)
 * The Annotated Transformer [[Blogpost]](http://nlp.seas.harvard.edu/annotated-transformer/)
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 * How GPT3 Works: Visualizations and Animations [[Blogpost]](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
