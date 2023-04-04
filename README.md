@@ -1,6 +1,7 @@
 # ML Papers, Blogs, and Videos
 
 ## To-Read
+* The Annotated Transformer [[Blogpost]](http://nlp.seas.harvard.edu/annotated-transformer/)
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 * How GPT3 Works: Visualizations and Animations [[Blogpost]](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * Five Years of GPT Progress [[Blogpost]](https://finbarr.ca/five-years-of-gpt-progress/)
