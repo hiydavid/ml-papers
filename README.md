@@ -1,12 +1,12 @@
-# ML Papers
+# ML Papers, Blogs, and Videos
 
 ## To-Read
-* A Survey of Large Language Models [[Link]](https://arxiv.org/abs/2303.18223)
-* The Illustrated Transformer [[Link]](https://jalammar.github.io/illustrated-transformer/)
-* How GPT3 Works: Visualizations and Animations [[Link]](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
-* Five Years of GPT Progress [[Link]](https://finbarr.ca/five-years-of-gpt-progress/)
-* Sparks of Artificial General Intelligence: Early Experiments with GPT-4 [[Link]](https://arxiv.org/pdf/2303.12712.pdf)
-* Imbalanced Classification via Explicit Gradient Learning From Augmented Data [[Link]](https://arxiv.org/abs/2202.10550)
+* A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
+* The Illustrated Transformer [[Blogpost]](https://jalammar.github.io/illustrated-transformer/)
+* How GPT3 Works: Visualizations and Animations [[Blogpost]](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+* Five Years of GPT Progress [[Blogpost]](https://finbarr.ca/five-years-of-gpt-progress/)
+* Sparks of Artificial General Intelligence: Early Experiments with GPT-4 [[Paper]](https://arxiv.org/pdf/2303.12712.pdf)
+* Imbalanced Classification via Explicit Gradient Learning From Augmented Data [[Paper]](https://arxiv.org/abs/2202.10550)
 * Estimating Treatment Effects with Causal Forests: An Application [[Link]](https://arxiv.org/abs/1902.07409)
 * TabNet: Attentive Interpretable Tabular Learning [[Link]](https://arxiv.org/abs/1908.07442)
 * TabTransformer: Tabular Data Modeling Using Contextual Embeddings [[Link]](https://arxiv.org/abs/2012.06678)
