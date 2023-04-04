@@ -4,6 +4,7 @@
 * Attention Is All Your Need [[Paper]](https://arxiv.org/abs/1706.03762)
 * The Annotated Transformer [[Blogpost]](http://nlp.seas.harvard.edu/annotated-transformer/)
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
+* The Illustrated GPT-2: Visualize Transformer Language Models [[Blogpost]](https://jalammar.github.io/illustrated-gpt2/)
 * How GPT3 Works: Visualizations and Animations [[Blogpost]](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * Five Years of GPT Progress [[Blogpost]](https://finbarr.ca/five-years-of-gpt-progress/)
 * Sparks of Artificial General Intelligence: Early Experiments with GPT-4 [[Paper]](https://arxiv.org/pdf/2303.12712.pdf)
