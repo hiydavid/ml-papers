@@ -77,10 +77,10 @@
 * Machine Learning vs Statistical Methods for Time Series Forecasting: Size Matters [[Paper]](https://arxiv.org/abs/1909.13316)
 
 ### Language Modeling
-* The Spelled-Out Intro to Neural Networks and Backpropagation: Building Micrograd [[Video]](https://youtu.be/VMj-3S1tku0)
-* The Spelled-Out Intro to Language Modeling: Pt.1 MakeMore with Bigrams [[Video]](https://youtu.be/PaCmpygFfXo)
-* The Spelled-Out Intro to Language Modeling: Pt.2 MakeMore with MLP [[Video]](https://youtu.be/TCH_1BHY58I)
-* The Spelled-Out Intro to Language Modeling: Pt.3 Activation, Gradients, BatchNorm [[Video]](https://youtu.be/P6sfmUTpUmc)
-* The Spelled-Out Intro to Language Modeling: Pt.4 Becoming a Backprop Ninja [[Video]](https://youtu.be/q8SA3rM6ckI)
-* The Spelled-Out Intro to Language Modeling: Pt.5 WaveNet [[Video]](https://youtu.be/t3YJ5hKiMQ0)
-* Let's Build GPT: From Scratch, In Code, Spelled Out [[Video]](https://youtu.be/kCc8FmEb1nY)
+* Karpathy Language Modeling Video #1: Building Micrograd [[Video]](https://youtu.be/VMj-3S1tku0)
+* Karpathy Language Modeling Video #2: MakeMore with Bigrams [[Video]](https://youtu.be/PaCmpygFfXo)
+* Karpathy Language Modeling Video #3: MakeMore with MLP [[Video]](https://youtu.be/TCH_1BHY58I)
+* Karpathy Language Modeling Video #4: Activation, Gradients, BatchNorm [[Video]](https://youtu.be/P6sfmUTpUmc)
+* Karpathy Language Modeling Video #5: Becoming a Backprop Ninja [[Video]](https://youtu.be/q8SA3rM6ckI)
+* Karpathy Language Modeling Video #6: WaveNet [[Video]](https://youtu.be/t3YJ5hKiMQ0)
+* Karpathy Language Modeling Video #7: Let's Build GPT [[Video]](https://youtu.be/kCc8FmEb1nY)
