@@ -31,6 +31,7 @@
 * An Updated Overview of Gradient Descent Optimization Algorithms [[Blogpost]](https://johnchenresearch.github.io/demon/)
 * A Recipe for Training Neural Networks[[Blogpost]](https://karpathy.github.io/2019/04/25/recipe/)
 * Deep Neural Nets: 33 Years Ago and 33 Years From Now [[Blogpost]](https://karpathy.github.io/2022/03/14/lecun1989/)
+* DAC: Deep Autoencoder-Based Clustering [[Paper]](https://arxiv.org/abs/2102.07472)
 
 ### Business Problem Domains
 * XGBSE: Improving XGBoost for Survival Analysis [[Blogpost]](https://towardsdatascience.com/xgbse-improving-xgboost-for-survival-analysis-393d47f1384a)
@@ -48,11 +49,6 @@
 * Temporal Graph Networks for Deep Learning on Dynamic Graphs [[Paper]](https://arxiv.org/abs/2006.10637)
 * A Review on Graph Neural Network Methods in Financial Applications [[Paper]](https://arxiv.org/abs/2111.15367)
 * A Survey on Graph Representation Learning Methods[[Paper]](https://arxiv.org/abs/2204.01855v2)
-
-### Representation Learning
-* User Profiling through Deep Multimodal Fusion [[Paper]](https://faculty.washington.edu/mdecock/papers/gfarnadi2018a.pdf)
-* DAC: Deep Autoencoder-based Clustering [[Paper]](https://arxiv.org/abs/2102.07472)
-* Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks [[Paper]](https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019.pdf)
 
 ### Tabular Data
 * On Embeddings for Numerical Features in Tabular Deep Learning [[Paper]](https://arxiv.org/abs/2203.05556)
