@@ -1,12 +1,7 @@
 # ML Papers, Blogs, and Videos
 
 ## To-Read
-* Attention Is All Your Need [[Paper]](https://arxiv.org/abs/1706.03762)
-* The Annotated Transformer [[Blogpost]](http://nlp.seas.harvard.edu/annotated-transformer/)
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
-* The Illustrated GPT-2: Visualize Transformer Language Models [[Blogpost]](https://jalammar.github.io/illustrated-gpt2/)
-* How GPT3 Works: Visualizations and Animations [[Blogpost]](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
-* Five Years of GPT Progress [[Blogpost]](https://finbarr.ca/five-years-of-gpt-progress/)
 * Sparks of Artificial General Intelligence: Early Experiments with GPT-4 [[Paper]](https://arxiv.org/pdf/2303.12712.pdf)
 * Imbalanced Classification via Explicit Gradient Learning From Augmented Data [[Paper]](https://arxiv.org/abs/2202.10550)
 * Estimating Treatment Effects with Causal Forests: An Application [[Paper]](https://arxiv.org/abs/1902.07409)
@@ -75,7 +70,12 @@
 * Machine Learning vs Statistical Methods for Time Series Forecasting: Size Matters [[Paper]](https://arxiv.org/abs/1909.13316)
 
 ### Language Modeling
+* Attention Is All Your Need [[Paper]](https://arxiv.org/abs/1706.03762)
+* The Annotated Transformer [[Blogpost]](http://nlp.seas.harvard.edu/annotated-transformer/)
 * The Illustrated Transformer [[Blogpost]](https://jalammar.github.io/illustrated-transformer/)
+* The Illustrated GPT-2: Visualize Transformer Language Models [[Blogpost]](https://jalammar.github.io/illustrated-gpt2/)
+* How GPT3 Works: Visualizations and Animations [[Blogpost]](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+* Five Years of GPT Progress [[Blogpost]](https://finbarr.ca/five-years-of-gpt-progress/)
 * Karpathy Language Modeling Video #1: Building Micrograd [[Video]](https://youtu.be/VMj-3S1tku0)
 * Karpathy Language Modeling Video #2: MakeMore with Bigrams [[Video]](https://youtu.be/PaCmpygFfXo)
 * Karpathy Language Modeling Video #3: MakeMore with MLP [[Video]](https://youtu.be/TCH_1BHY58I)
