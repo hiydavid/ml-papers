@@ -83,3 +83,5 @@
 * Karpathy Language Modeling Video #5: Becoming a Backprop Ninja [[Video]](https://youtu.be/q8SA3rM6ckI)
 * Karpathy Language Modeling Video #6: WaveNet [[Video]](https://youtu.be/t3YJ5hKiMQ0)
 * Karpathy Language Modeling Video #7: Let's Build GPT [[Video]](https://youtu.be/kCc8FmEb1nY)
+* Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
+* Understanding Large Language Models [[Blogpost]](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
