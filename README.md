@@ -70,6 +70,7 @@
 * Machine Learning vs Statistical Methods for Time Series Forecasting: Size Matters [[Paper]](https://arxiv.org/abs/1909.13316)
 
 ### Language Modeling
+* Google "We Have No Moat, And Neither Does OpenAI" [[Blogpost]](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * Attention Is All Your Need [[Paper]](https://arxiv.org/abs/1706.03762)
 * The Annotated Transformer [[Blogpost]](http://nlp.seas.harvard.edu/annotated-transformer/)
 * The Illustrated Transformer [[Blogpost]](https://jalammar.github.io/illustrated-transformer/)
