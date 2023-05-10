@@ -10,6 +10,24 @@
 * Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[Paper]](https://arxiv.org/abs/1905.07697)
 
 ## Read
+### Language Modeling
+* Google "We Have No Moat, And Neither Does OpenAI" [[Blogpost]](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+* Attention Is All Your Need [[Paper]](https://arxiv.org/abs/1706.03762)
+* The Annotated Transformer [[Blogpost]](http://nlp.seas.harvard.edu/annotated-transformer/)
+* The Illustrated Transformer [[Blogpost]](https://jalammar.github.io/illustrated-transformer/)
+* The Illustrated GPT-2: Visualize Transformer Language Models [[Blogpost]](https://jalammar.github.io/illustrated-gpt2/)
+* How GPT3 Works: Visualizations and Animations [[Blogpost]](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+* Five Years of GPT Progress [[Blogpost]](https://finbarr.ca/five-years-of-gpt-progress/)
+* Karpathy Language Modeling Video #1: Building Micrograd [[Video]](https://youtu.be/VMj-3S1tku0)
+* Karpathy Language Modeling Video #2: MakeMore with Bigrams [[Video]](https://youtu.be/PaCmpygFfXo)
+* Karpathy Language Modeling Video #3: MakeMore with MLP [[Video]](https://youtu.be/TCH_1BHY58I)
+* Karpathy Language Modeling Video #4: Activation, Gradients, BatchNorm [[Video]](https://youtu.be/P6sfmUTpUmc)
+* Karpathy Language Modeling Video #5: Becoming a Backprop Ninja [[Video]](https://youtu.be/q8SA3rM6ckI)
+* Karpathy Language Modeling Video #6: WaveNet [[Video]](https://youtu.be/t3YJ5hKiMQ0)
+* Karpathy Language Modeling Video #7: Let's Build GPT [[Video]](https://youtu.be/kCc8FmEb1nY)
+* Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
+* Understanding Large Language Models [[Blogpost]](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+
 ### Machine Learning General
 * Machine Learning and Causality: The Impact of Financial Crises on Growth [[Paper]](shorturl.at/izFMR)
 * A Comparative Study of Hyper-Parameter Optimization Tools [[Paper]](https://arxiv.org/abs/2201.06433)
@@ -68,21 +86,3 @@
 * An Experimental Review on Deep Learning Architectures for Time Series Forecasting [[Paper]](https://arxiv.org/abs/2103.12057)
 * Do We Really Need Deep Learning Models for Time Series Forecasting? [[Paper]](https://arxiv.org/abs/2101.02118)
 * Machine Learning vs Statistical Methods for Time Series Forecasting: Size Matters [[Paper]](https://arxiv.org/abs/1909.13316)
-
-### Language Modeling
-* Google "We Have No Moat, And Neither Does OpenAI" [[Blogpost]](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
-* Attention Is All Your Need [[Paper]](https://arxiv.org/abs/1706.03762)
-* The Annotated Transformer [[Blogpost]](http://nlp.seas.harvard.edu/annotated-transformer/)
-* The Illustrated Transformer [[Blogpost]](https://jalammar.github.io/illustrated-transformer/)
-* The Illustrated GPT-2: Visualize Transformer Language Models [[Blogpost]](https://jalammar.github.io/illustrated-gpt2/)
-* How GPT3 Works: Visualizations and Animations [[Blogpost]](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
-* Five Years of GPT Progress [[Blogpost]](https://finbarr.ca/five-years-of-gpt-progress/)
-* Karpathy Language Modeling Video #1: Building Micrograd [[Video]](https://youtu.be/VMj-3S1tku0)
-* Karpathy Language Modeling Video #2: MakeMore with Bigrams [[Video]](https://youtu.be/PaCmpygFfXo)
-* Karpathy Language Modeling Video #3: MakeMore with MLP [[Video]](https://youtu.be/TCH_1BHY58I)
-* Karpathy Language Modeling Video #4: Activation, Gradients, BatchNorm [[Video]](https://youtu.be/P6sfmUTpUmc)
-* Karpathy Language Modeling Video #5: Becoming a Backprop Ninja [[Video]](https://youtu.be/q8SA3rM6ckI)
-* Karpathy Language Modeling Video #6: WaveNet [[Video]](https://youtu.be/t3YJ5hKiMQ0)
-* Karpathy Language Modeling Video #7: Let's Build GPT [[Video]](https://youtu.be/kCc8FmEb1nY)
-* Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
-* Understanding Large Language Models [[Blogpost]](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
