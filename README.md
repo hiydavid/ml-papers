@@ -1,6 +1,7 @@
 # ML Papers, Blogs, and Videos
 
 ## To-Read
+* Tree of Thoughts: Deliberate Problem Solving with Large Language Models [[Paper]](https://arxiv.org/abs/2305.10601)
 * Whose Opinions Do Language Models Reflect? [[Paper]](https://arxiv.org/abs/2303.17548)
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 * Sparks of Artificial General Intelligence: Early Experiments with GPT-4 [[Paper]](https://arxiv.org/pdf/2303.12712.pdf)
