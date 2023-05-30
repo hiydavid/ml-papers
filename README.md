@@ -13,6 +13,7 @@
 
 ## Read
 ### Language Modeling
+* The Full Stack LLM Bootcamp [[Course]](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 * Google "We Have No Moat, And Neither Does OpenAI" [[Blogpost]](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * Attention Is All Your Need [[Paper]](https://arxiv.org/abs/1706.03762)
 * The Annotated Transformer [[Blogpost]](http://nlp.seas.harvard.edu/annotated-transformer/)
