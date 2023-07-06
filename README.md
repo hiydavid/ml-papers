@@ -1,6 +1,7 @@
 # ML Papers, Blogs, and Videos
 
 ## To-Read
+* Personality Traits in Large Language Models [[Blogpost]](https://arxiv.org/abs/2307.00184)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
 * Tree of Thoughts: Deliberate Problem Solving with Large Language Models [[Paper]](https://arxiv.org/abs/2305.10601)
 * Whose Opinions Do Language Models Reflect? [[Paper]](https://arxiv.org/abs/2303.17548)
@@ -14,6 +15,7 @@
 
 ## Read
 ### Language Modeling
+* Why AI Will Save The World [[Blogpost]](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 * The Full Stack LLM Bootcamp [[Course]](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 * Google "We Have No Moat, And Neither Does OpenAI" [[Blogpost]](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * Attention Is All Your Need [[Paper]](https://arxiv.org/abs/1706.03762)
