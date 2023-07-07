@@ -1,7 +1,7 @@
 # ML Papers, Blogs, and Videos
 
 ## To-Read
-* Personality Traits in Large Language Models [[Blogpost]](https://arxiv.org/abs/2307.00184)
+* Personality Traits in Large Language Models [[Paper]](https://arxiv.org/abs/2307.00184)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
 * Tree of Thoughts: Deliberate Problem Solving with Large Language Models [[Paper]](https://arxiv.org/abs/2305.10601)
 * Whose Opinions Do Language Models Reflect? [[Paper]](https://arxiv.org/abs/2303.17548)
