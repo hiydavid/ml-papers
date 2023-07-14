@@ -7,11 +7,10 @@
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 
 ## Read
-### Language Modeling
+### LLM General
 * Tree of Thoughts: Deliberate Problem Solving with Large Language Models [[Paper]](https://arxiv.org/abs/2305.10601)
 * State of GPT [[Video]](https://youtu.be/bZQun8Y4L2A)
 * Why AI Will Save The World [[Blogpost]](https://a16z.com/2023/06/06/ai-will-save-the-world/)
-* The Full Stack LLM Bootcamp [[Course]](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 * Google "We Have No Moat, And Neither Does OpenAI" [[Blogpost]](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * Attention Is All Your Need [[Paper]](https://arxiv.org/abs/1706.03762)
 * Sparks of Artificial General Intelligence: Early Experiments with GPT-4 [[Paper]](https://arxiv.org/pdf/2303.12712.pdf)
@@ -20,6 +19,18 @@
 * The Illustrated GPT-2: Visualize Transformer Language Models [[Blogpost]](https://jalammar.github.io/illustrated-gpt2/)
 * How GPT3 Works: Visualizations and Animations [[Blogpost]](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * Five Years of GPT Progress [[Blogpost]](https://finbarr.ca/five-years-of-gpt-progress/)
+* Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
+* Understanding Large Language Models [[Blogpost]](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+
+### LLM Courses
+* Generative AI with Large Language Models [[Course]](https://www.coursera.org/learn/generative-ai-with-llms)
+* Training and Fine-tuning Large Language Models (LLMs) [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
+* Building LLM-Powered Apps [[Course]](https://www.wandb.courses/courses/building-llm-powered-apps)
+* Building Systems with the ChatGPT API [[Course]](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+* LangChain: Chat with Your Data [[Course]](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
+* LangChain for LLM Application Development [[Course]](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+* ChatGPT Prompt Engineering for Developers [[Course]](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+* The Full Stack LLM Bootcamp [[Course]](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 * Karpathy Language Modeling Video #1: Building Micrograd [[Video]](https://youtu.be/VMj-3S1tku0)
 * Karpathy Language Modeling Video #2: MakeMore with Bigrams [[Video]](https://youtu.be/PaCmpygFfXo)
 * Karpathy Language Modeling Video #3: MakeMore with MLP [[Video]](https://youtu.be/TCH_1BHY58I)
@@ -27,8 +38,6 @@
 * Karpathy Language Modeling Video #5: Becoming a Backprop Ninja [[Video]](https://youtu.be/q8SA3rM6ckI)
 * Karpathy Language Modeling Video #6: WaveNet [[Video]](https://youtu.be/t3YJ5hKiMQ0)
 * Karpathy Language Modeling Video #7: Let's Build GPT [[Video]](https://youtu.be/kCc8FmEb1nY)
-* Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
-* Understanding Large Language Models [[Blogpost]](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 
 ### Machine Learning General
 * Machine Learning and Causality: The Impact of Financial Crises on Growth [[Paper]](shorturl.at/izFMR)
