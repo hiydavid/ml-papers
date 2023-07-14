@@ -3,22 +3,18 @@
 ## To-Read
 * Personality Traits in Large Language Models [[Paper]](https://arxiv.org/abs/2307.00184)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
-* Tree of Thoughts: Deliberate Problem Solving with Large Language Models [[Paper]](https://arxiv.org/abs/2305.10601)
 * Whose Opinions Do Language Models Reflect? [[Paper]](https://arxiv.org/abs/2303.17548)
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
-* Sparks of Artificial General Intelligence: Early Experiments with GPT-4 [[Paper]](https://arxiv.org/pdf/2303.12712.pdf)
-* Imbalanced Classification via Explicit Gradient Learning From Augmented Data [[Paper]](https://arxiv.org/abs/2202.10550)
-* Estimating Treatment Effects with Causal Forests: An Application [[Paper]](https://arxiv.org/abs/1902.07409)
-* TabNet: Attentive Interpretable Tabular Learning [[Paper]](https://arxiv.org/abs/1908.07442)
-* TabTransformer: Tabular Data Modeling Using Contextual Embeddings [[Paper]](https://arxiv.org/abs/2012.06678)
-* Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[Paper]](https://arxiv.org/abs/1905.07697)
 
 ## Read
 ### Language Modeling
+* Tree of Thoughts: Deliberate Problem Solving with Large Language Models [[Paper]](https://arxiv.org/abs/2305.10601)
+* State of GPT [[Video]](https://youtu.be/bZQun8Y4L2A)
 * Why AI Will Save The World [[Blogpost]](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 * The Full Stack LLM Bootcamp [[Course]](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 * Google "We Have No Moat, And Neither Does OpenAI" [[Blogpost]](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * Attention Is All Your Need [[Paper]](https://arxiv.org/abs/1706.03762)
+* Sparks of Artificial General Intelligence: Early Experiments with GPT-4 [[Paper]](https://arxiv.org/pdf/2303.12712.pdf)
 * The Annotated Transformer [[Blogpost]](http://nlp.seas.harvard.edu/annotated-transformer/)
 * The Illustrated Transformer [[Blogpost]](https://jalammar.github.io/illustrated-transformer/)
 * The Illustrated GPT-2: Visualize Transformer Language Models [[Blogpost]](https://jalammar.github.io/illustrated-gpt2/)
