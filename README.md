@@ -2,6 +2,7 @@
 
 ## To-Read
 ### Papers / Blogs
+* Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
 * Personality Traits in Large Language Models [[Paper]](https://arxiv.org/abs/2307.00184)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
 * Whose Opinions Do Language Models Reflect? [[Paper]](https://arxiv.org/abs/2303.17548)
@@ -9,7 +10,6 @@
 
 ### Courses
 * Generative AI with Large Language Models [[Course]](https://www.coursera.org/learn/generative-ai-with-llms)
-* Training and Fine-tuning Large Language Models (LLMs) [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
 * Building LLM-Powered Apps [[Course]](https://www.wandb.courses/courses/building-llm-powered-apps)
 * Building Systems with the ChatGPT API [[Course]](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
 
@@ -33,6 +33,7 @@
 * LangChain: Chat with Your Data [[Course]](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 * LangChain for LLM Application Development [[Course]](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 * ChatGPT Prompt Engineering for Developers [[Course]](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+* Training and Fine-tuning Large Language Models (LLMs) [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
 * The Full Stack LLM Bootcamp [[Course]](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 * Karpathy Language Modeling Video #1: Building Micrograd [[Video]](https://youtu.be/VMj-3S1tku0)
 * Karpathy Language Modeling Video #2: MakeMore with Bigrams [[Video]](https://youtu.be/PaCmpygFfXo)
