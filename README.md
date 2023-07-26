@@ -1,9 +1,10 @@
 # ML Papers, Blogs, and Videos
 
-## To-Read
+## To-Do
 ### Papers / Blogs
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
+* Tree of Thoughts: Deliberate Problem Solving with Large Language Models [[Paper]](https://arxiv.org/abs/2305.10601)
 * Personality Traits in Large Language Models [[Paper]](https://arxiv.org/abs/2307.00184)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
 * Whose Opinions Do Language Models Reflect? [[Paper]](https://arxiv.org/abs/2303.17548)
@@ -11,12 +12,11 @@
 
 ### Courses
 * Generative AI with Large Language Models [[Course]](https://www.coursera.org/learn/generative-ai-with-llms)
-* Building LLM-Powered Apps [[Course]](https://www.wandb.courses/courses/building-llm-powered-apps)
+* Training and Fine-tuning LLMs [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
 * Building Systems with the ChatGPT API [[Course]](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
 
-## Read
+## Done
 ### LLM General
-* Tree of Thoughts: Deliberate Problem Solving with Large Language Models [[Paper]](https://arxiv.org/abs/2305.10601)
 * State of GPT [[Video]](https://youtu.be/bZQun8Y4L2A)
 * Why AI Will Save The World [[Blogpost]](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 * Google "We Have No Moat, And Neither Does OpenAI" [[Blogpost]](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
@@ -31,6 +31,7 @@
 * Understanding Large Language Models [[Blogpost]](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 
 ### LLM Courses
+* Building LLM-Powered Apps [[Course]](https://www.wandb.courses/courses/building-llm-powered-apps)
 * LangChain: Chat with Your Data [[Course]](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 * LangChain for LLM Application Development [[Course]](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 * ChatGPT Prompt Engineering for Developers [[Course]](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
