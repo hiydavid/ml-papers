@@ -2,6 +2,7 @@
 
 ## To-Read
 ### Papers / Blogs
+* ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
 * Personality Traits in Large Language Models [[Paper]](https://arxiv.org/abs/2307.00184)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
