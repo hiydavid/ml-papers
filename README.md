@@ -11,8 +11,7 @@
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 
 ### Courses
-* Generative AI with Large Language Models [[Course]](https://www.coursera.org/learn/generative-ai-with-llms)
-* Training and Fine-tuning LLMs [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
+* Training and Fine-Tuning LLMs [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
 * Building Systems with the ChatGPT API [[Course]](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
 
 ## Done
@@ -31,6 +30,7 @@
 * Understanding Large Language Models [[Blogpost]](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 
 ### LLM Courses
+* Generative AI with Large Language Models [[Course]](https://www.coursera.org/learn/generative-ai-with-llms)
 * Building LLM-Powered Apps [[Course]](https://www.wandb.courses/courses/building-llm-powered-apps)
 * LangChain: Chat with Your Data [[Course]](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 * LangChain for LLM Application Development [[Course]](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
