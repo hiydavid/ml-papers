@@ -11,8 +11,10 @@
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 
 ### Courses
+* LLM Application Through Production [[Course]](https://www.edx.org/course/large-language-models-application-through-production)
 * Training and Fine-Tuning LLMs [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
 * Building Systems with the ChatGPT API [[Course]](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+* Building Generative AI Apps with Gradio [[Course]](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
 
 ## Done
 ### LLM General
