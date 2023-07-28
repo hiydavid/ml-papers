@@ -6,7 +6,6 @@
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
 * Tree of Thoughts: Deliberate Problem Solving with Large Language Models [[Paper]](https://arxiv.org/abs/2305.10601)
 * Personality Traits in Large Language Models [[Paper]](https://arxiv.org/abs/2307.00184)
-* AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
 * Whose Opinions Do Language Models Reflect? [[Paper]](https://arxiv.org/abs/2303.17548)
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 
@@ -16,6 +15,7 @@
 
 ## Done
 ### LLM General
+* AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
 * State of GPT [[Video]](https://youtu.be/bZQun8Y4L2A)
 * Why AI Will Save The World [[Blogpost]](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 * Google "We Have No Moat, And Neither Does OpenAI" [[Blogpost]](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
