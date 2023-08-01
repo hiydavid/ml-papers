@@ -2,10 +2,11 @@
 
 ## To-Do
 ### Papers / Blogs
+* Open Problems and Fundamental Limitations of RLHF [[Paper]](https://arxiv.org/abs/2307.15217)
 * Universal and Transferable Attacks on Aligned Language Models [[Paper]](https://llm-attacks.org)
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
-* Tree of Thoughts: Deliberate Problem Solving with Large Language Models [[Paper]](https://arxiv.org/abs/2305.10601)
+* Tree of Thoughts: Deliberate Problem Solving with LLMs [[Paper]](https://arxiv.org/abs/2305.10601)
 * Personality Traits in Large Language Models [[Paper]](https://arxiv.org/abs/2307.00184)
 * Whose Opinions Do Language Models Reflect? [[Paper]](https://arxiv.org/abs/2303.17548)
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
@@ -13,7 +14,6 @@
 ### Courses
 * LLM Application Through Production [[Course]](https://www.edx.org/course/large-language-models-application-through-production)
 * Training and Fine-Tuning LLMs [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
-* Building Systems with the ChatGPT API [[Course]](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
 * Building Generative AI Apps with Gradio [[Course]](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
 
 ## Done
@@ -37,6 +37,7 @@
 * Building LLM-Powered Apps [[Course]](https://www.wandb.courses/courses/building-llm-powered-apps)
 * LangChain: Chat with Your Data [[Course]](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 * LangChain for LLM Application Development [[Course]](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+* Building Systems with the ChatGPT API [[Course]](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
 * ChatGPT Prompt Engineering for Developers [[Course]](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 * Training and Fine-tuning Large Language Models (LLMs) [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
 * The Full Stack LLM Bootcamp [[Course]](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
