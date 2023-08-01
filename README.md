@@ -2,6 +2,7 @@
 
 ## To-Do
 ### Papers / Blogs
+* LLM-Rec: Personalized Recommendation via Prompting Large Language Models [[Ppaer]](https://arxiv.org/abs/2307.15780)
 * Open Problems and Fundamental Limitations of RLHF [[Paper]](https://arxiv.org/abs/2307.15217)
 * Universal and Transferable Attacks on Aligned Language Models [[Paper]](https://llm-attacks.org)
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
