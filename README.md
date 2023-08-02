@@ -3,7 +3,6 @@
 ## To-Do
 ### Papers / Blogs
 * LLM-Rec: Personalized Recommendation via Prompting Large Language Models [[Ppaer]](https://arxiv.org/abs/2307.15780)
-* Open Problems and Fundamental Limitations of RLHF [[Paper]](https://arxiv.org/abs/2307.15217)
 * Universal and Transferable Attacks on Aligned Language Models [[Paper]](https://llm-attacks.org)
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
@@ -13,12 +12,14 @@
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 
 ### Courses
+* Evaluating and Debugging Generative AI [[Course]](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
 * LLM Application Through Production [[Course]](https://www.edx.org/course/large-language-models-application-through-production)
 * Training and Fine-Tuning LLMs [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
 * Building Generative AI Apps with Gradio [[Course]](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
 
 ## Done
 ### LLM General
+* Open Problems and Fundamental Limitations of RLHF [[Paper]](https://arxiv.org/abs/2307.15217)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
 * State of GPT [[Video]](https://youtu.be/bZQun8Y4L2A)
 * Why AI Will Save The World [[Blogpost]](https://a16z.com/2023/06/06/ai-will-save-the-world/)
