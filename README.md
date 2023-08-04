@@ -2,7 +2,7 @@
 
 ## To-Do
 ### Papers / Blogs
-* LLM-Rec: Personalized Recommendation via Prompting Large Language Models [[Ppaer]](https://arxiv.org/abs/2307.15780)
+* Transformers in Time Series: A Survey [[Paper]](https://arxiv.org/abs/2202.07125)
 * Universal and Transferable Attacks on Aligned Language Models [[Paper]](https://llm-attacks.org)
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
@@ -19,6 +19,7 @@
 
 ## Done
 ### LLM General
+* LLM-Rec: Personalized Recommendation via Prompting Large Language Models [[Ppaer]](https://arxiv.org/abs/2307.15780)
 * Open Problems and Fundamental Limitations of RLHF [[Paper]](https://arxiv.org/abs/2307.15217)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
 * State of GPT [[Video]](https://youtu.be/bZQun8Y4L2A)
