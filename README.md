@@ -2,6 +2,9 @@
 
 ## To-Do
 ### Papers / Blogs
+* Patterns for Building LLM-based Systems & Products [[Blogpost]](https://eugeneyan.com/writing/llm-patterns/)
+* Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
+* RLHF: Reinforcement Learning from Human Feedback [[Blogpost]](https://huyenchip.com/2023/05/02/rlhf.html)
 * Transformers in Time Series: A Survey [[Paper]](https://arxiv.org/abs/2202.07125)
 * Universal and Transferable Attacks on Aligned Language Models [[Paper]](https://llm-attacks.org)
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
@@ -32,7 +35,6 @@
 * The Illustrated GPT-2: Visualize Transformer Language Models [[Blogpost]](https://jalammar.github.io/illustrated-gpt2/)
 * How GPT3 Works: Visualizations and Animations [[Blogpost]](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * Five Years of GPT Progress [[Blogpost]](https://finbarr.ca/five-years-of-gpt-progress/)
-* Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * Understanding Large Language Models [[Blogpost]](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 
 ### LLM Courses
