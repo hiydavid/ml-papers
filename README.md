@@ -5,7 +5,8 @@
 * Patterns for Building LLM-based Systems & Products [[Blogpost]](https://eugeneyan.com/writing/llm-patterns/)
 * Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * RLHF: Reinforcement Learning from Human Feedback [[Blogpost]](https://huyenchip.com/2023/05/02/rlhf.html)
-* Transformers in Time Series: A Survey [[Paper]](https://arxiv.org/abs/2202.07125)
+* Are Transformers Effective for Time Series Forecasting? [[Paper]](https://arxiv.org/abs/2205.13504)
+* The Transformer Blueprint: A Holistic Guide to the Transformer Architecture [[Blogpost]](https://deeprevision.github.io/posts/001-transformer/)
 * Universal and Transferable Attacks on Aligned Language Models [[Paper]](https://llm-attacks.org)
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
@@ -79,6 +80,7 @@
 * Understanding Survival Analysis: Kaplan-Meier Estiamte [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3059453/)
 * Predicting Customer Lifetime Values: E-Commerce Use Case [[Paper]](https://arxiv.org/abs/2102.05771)
 * A Deep Probabilistic Model for Customer Lifetime Value Prediction [[Paper]](https://arxiv.org/abs/1912.07753)
+* Churn Prediction with Sequential Data and Deep Neural Networks [[Paper]](https://arxiv.org/abs/1909.11114)
 * Predicting Customer Churn: Extreme Gradient Boosting with Temporal Data [[Paper]](https://arxiv.org/abs/1802.03396)
 * Behavioral Modeling for Churn Prediction [[Paper]](https://arxiv.org/abs/1512.06430)
 * Deep & Cross Network for Ad Click Predictions [[Paper]](https://arxiv.org/abs/1708.05123)
@@ -100,7 +102,7 @@
 * XGBoost: A Scalable Tree Boosting System [[Paper]](https://arxiv.org/abs/1603.02754)
 
 ### Time Series
-* Churn Prediction with Sequential Data and Deep Neural Networks [[Paper]](https://arxiv.org/abs/1909.11114)
+* Transformers in Time Series: A Survey [[Paper]](https://arxiv.org/abs/2202.07125)
 * Forecasting with Trees [[Paper]](https://www.sciencedirect.com/science/article/pii/S0169207021001679)
 * Deep Learning for Time Series Forecasting: Tutorial and Literature Survey [[Paper]](https://arxiv.org/abs/2004.10240)
 * DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks [[Paper]](https://arxiv.org/abs/1704.04110)
