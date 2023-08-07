@@ -19,7 +19,6 @@
 * Evaluating and Debugging Generative AI [[Course]](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
 * LLM Application Through Production [[Course]](https://www.edx.org/course/large-language-models-application-through-production)
 * Training and Fine-Tuning LLMs [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
-* Building Generative AI Apps with Gradio [[Course]](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
 
 ## Done
 ### LLM General
