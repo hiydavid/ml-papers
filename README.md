@@ -10,7 +10,6 @@
 * Universal and Transferable Attacks on Aligned Language Models [[Paper]](https://llm-attacks.org)
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
-* Chain-of-Thought Prompting Elicits Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2201.11903)
 * Tree of Thoughts: Deliberate Problem Solving with LLMs [[Paper]](https://arxiv.org/abs/2305.10601)
 * Personality Traits in Large Language Models [[Paper]](https://arxiv.org/abs/2307.00184)
 * Whose Opinions Do Language Models Reflect? [[Paper]](https://arxiv.org/abs/2303.17548)
@@ -23,6 +22,7 @@
 
 ## Done
 ### LLM General
+* Chain-of-Thought Prompting Elicits Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2201.11903)
 * LLM-Rec: Personalized Recommendation via Prompting Large Language Models [[Ppaer]](https://arxiv.org/abs/2307.15780)
 * Open Problems and Fundamental Limitations of RLHF [[Paper]](https://arxiv.org/abs/2307.15217)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
