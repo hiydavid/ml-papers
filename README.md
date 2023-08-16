@@ -16,6 +16,7 @@
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 
 ### Courses
+* LLMs with Semantic Search [[Course]](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
 * Evaluating and Debugging Generative AI [[Course]](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
 * LLM Application Through Production [[Course]](https://www.edx.org/course/large-language-models-application-through-production)
 * Training and Fine-Tuning LLMs [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
