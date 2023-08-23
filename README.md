@@ -2,6 +2,8 @@
 
 ## To-Do
 ### Papers / Blogs
+* GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher [[Paper]](https://arxiv.org/abs/2308.06463)
+* MRKL Systems: Modular Reasoning, Knowledge and Language [[Paper]](https://arxiv.org/abs/2205.00445)
 * Patterns for Building LLM-based Systems & Products [[Blogpost]](https://eugeneyan.com/writing/llm-patterns/)
 * Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * RLHF: Reinforcement Learning from Human Feedback [[Blogpost]](https://huyenchip.com/2023/05/02/rlhf.html)
@@ -16,6 +18,7 @@
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 
 ### Courses
+* Finetune Large Language Models [[Course]](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 * LLMs with Semantic Search [[Course]](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
 * Evaluating and Debugging Generative AI [[Course]](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
 * LLM Application Through Production [[Course]](https://www.edx.org/course/large-language-models-application-through-production)
