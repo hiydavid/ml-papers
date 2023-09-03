@@ -9,7 +9,6 @@
 * The Transformer Blueprint: A Holistic Guide to the Transformer Architecture [[Blogpost]](https://deeprevision.github.io/posts/001-transformer/)
 * Universal and Transferable Attacks on Aligned Language Models [[Paper]](https://llm-attacks.org)
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
-* Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
 * Tree of Thoughts: Deliberate Problem Solving with LLMs [[Paper]](https://arxiv.org/abs/2305.10601)
 * Graph of Thoughts: Solving Elaborate Problems with LLMs [[Paper]](https://arxiv.org/abs/2308.09687)
 * Personality Traits in Large Language Models [[Paper]](https://arxiv.org/abs/2307.00184)
@@ -25,6 +24,7 @@
 
 ## Done
 ### LLM General
+* Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
 * Chain-of-Thought Prompting Elicits Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2201.11903)
 * LLM-Rec: Personalized Recommendation via Prompting Large Language Models [[Ppaer]](https://arxiv.org/abs/2307.15780)
 * Open Problems and Fundamental Limitations of RLHF [[Paper]](https://arxiv.org/abs/2307.15217)
