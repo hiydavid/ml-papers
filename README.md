@@ -2,12 +2,10 @@
 
 ## To-Do
 ### Papers / Blogs
-* GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher [[Paper]](https://arxiv.org/abs/2308.06463)
 * MRKL Systems: Modular Reasoning, Knowledge and Language [[Paper]](https://arxiv.org/abs/2205.00445)
 * Patterns for Building LLM-based Systems & Products [[Blogpost]](https://eugeneyan.com/writing/llm-patterns/)
 * Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * RLHF: Reinforcement Learning from Human Feedback [[Blogpost]](https://huyenchip.com/2023/05/02/rlhf.html)
-* Are Transformers Effective for Time Series Forecasting? [[Paper]](https://arxiv.org/abs/2205.13504)
 * The Transformer Blueprint: A Holistic Guide to the Transformer Architecture [[Blogpost]](https://deeprevision.github.io/posts/001-transformer/)
 * Universal and Transferable Attacks on Aligned Language Models [[Paper]](https://llm-attacks.org)
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
