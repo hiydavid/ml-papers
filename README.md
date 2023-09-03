@@ -11,8 +11,10 @@
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
 * Tree of Thoughts: Deliberate Problem Solving with LLMs [[Paper]](https://arxiv.org/abs/2305.10601)
+* Graph of Thoughts: Solving Elaborate Problems with LLMs [[Paper]](https://arxiv.org/abs/2308.09687)
 * Personality Traits in Large Language Models [[Paper]](https://arxiv.org/abs/2307.00184)
 * Whose Opinions Do Language Models Reflect? [[Paper]](https://arxiv.org/abs/2303.17548)
+* A Survey on LLM-based Autonomous Agents [[Paper]](https://arxiv.org/abs/2308.11432)
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 
 ### Courses
