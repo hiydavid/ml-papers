@@ -50,13 +50,7 @@
 * Building Systems with the ChatGPT API [[Course]](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
 * ChatGPT Prompt Engineering for Developers [[Course]](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 * The Full Stack LLM Bootcamp [[Course]](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
-* Karpathy Language Modeling Video #1: Building Micrograd [[Video]](https://youtu.be/VMj-3S1tku0)
-* Karpathy Language Modeling Video #2: MakeMore with Bigrams [[Video]](https://youtu.be/PaCmpygFfXo)
-* Karpathy Language Modeling Video #3: MakeMore with MLP [[Video]](https://youtu.be/TCH_1BHY58I)
-* Karpathy Language Modeling Video #4: Activation, Gradients, BatchNorm [[Video]](https://youtu.be/P6sfmUTpUmc)
-* Karpathy Language Modeling Video #5: Becoming a Backprop Ninja [[Video]](https://youtu.be/q8SA3rM6ckI)
-* Karpathy Language Modeling Video #6: WaveNet [[Video]](https://youtu.be/t3YJ5hKiMQ0)
-* Karpathy Language Modeling Video #7: Let's Build GPT [[Video]](https://youtu.be/kCc8FmEb1nY)
+* Neural Networks From Zero to Hero [[Course]](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
 ### Machine Learning General
 * Machine Learning and Causality: The Impact of Financial Crises on Growth [[Paper]](shorturl.at/izFMR)
