@@ -24,12 +24,12 @@
 
 ## Done
 ### LLM General
+* AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
+* State of GPT [[Video]](https://youtu.be/bZQun8Y4L2A)
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
 * Chain-of-Thought Prompting Elicits Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2201.11903)
 * LLM-Rec: Personalized Recommendation via Prompting Large Language Models [[Ppaer]](https://arxiv.org/abs/2307.15780)
 * Open Problems and Fundamental Limitations of RLHF [[Paper]](https://arxiv.org/abs/2307.15217)
-* AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
-* State of GPT [[Video]](https://youtu.be/bZQun8Y4L2A)
 * Why AI Will Save The World [[Blogpost]](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 * Google "We Have No Moat, And Neither Does OpenAI" [[Blogpost]](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * Attention Is All Your Need [[Paper]](https://arxiv.org/abs/1706.03762)
