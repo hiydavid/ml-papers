@@ -17,6 +17,7 @@
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 
 ### Courses
+* Efficient Fine-Tuning for Llama-v2-7b on a Single GPU [[Course]](https://www.youtube.com/watch?v=g68qlo9Izf0)
 * Finetune Large Language Models [[Course]](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 * LLMs with Semantic Search [[Course]](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
 * Evaluating and Debugging Generative AI [[Course]](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
