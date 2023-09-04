@@ -25,7 +25,7 @@
 * Training and Fine-Tuning LLMs [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
 
 ## Done
-### LLM General
+### Large Language Model
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
 * Chain-of-Thought Prompting Elicits Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2201.11903)
