@@ -2,6 +2,7 @@
 
 ## To-Do
 ### Papers / Blogs
+* Emerging Architectures for LLM Applications [[Blogpost]](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 * MRKL Systems: Modular Reasoning, Knowledge and Language [[Paper]](https://arxiv.org/abs/2205.00445)
 * Patterns for Building LLM-based Systems & Products [[Blogpost]](https://eugeneyan.com/writing/llm-patterns/)
 * Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
