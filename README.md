@@ -2,6 +2,7 @@
 
 ## To-Do
 ### Papers / Blogs
+* 
 * MRKL Systems: Modular Reasoning, Knowledge and Language [[Paper]](https://arxiv.org/abs/2205.00445)
 * Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * RLHF: Reinforcement Learning from Human Feedback [[Blogpost]](https://huyenchip.com/2023/05/02/rlhf.html)
@@ -25,6 +26,7 @@
 
 ## Done
 ### Large Language Model
+* Navigating the Jagged Technological Frontier [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
 * Emerging Architectures for LLM Applications [[Blogpost]](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 * Patterns for Building LLM-based Systems & Products [[Blogpost]](https://eugeneyan.com/writing/llm-patterns/)
