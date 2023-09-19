@@ -2,7 +2,6 @@
 
 ## To-Do
 ### Papers / Blogs
-* 
 * MRKL Systems: Modular Reasoning, Knowledge and Language [[Paper]](https://arxiv.org/abs/2205.00445)
 * Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * RLHF: Reinforcement Learning from Human Feedback [[Blogpost]](https://huyenchip.com/2023/05/02/rlhf.html)
