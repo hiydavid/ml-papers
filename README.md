@@ -2,14 +2,18 @@
 
 ## To-Do
 ### Papers / Blogs
+* Chain-of-Verification Reduces Hallucination in LLMs [[Paper]](https://arxiv.org/abs/2309.11495)
+* PDFTriage: Question Answering over Long, Structured Documents [[Paper]](https://arxiv.org/abs/2309.08872)
+* From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting [[Paper]](https://arxiv.org/abs/2309.04269)
 * MRKL Systems: Modular Reasoning, Knowledge and Language [[Paper]](https://arxiv.org/abs/2205.00445)
 * RLHF: Reinforcement Learning from Human Feedback [[Blogpost]](https://huyenchip.com/2023/05/02/rlhf.html)
-* The Transformer Blueprint: A Holistic Guide to the Transformer Architecture [[Blogpost]](https://deeprevision.github.io/posts/001-transformer/)
+* The Transformer Blueprint [[Blogpost]](https://deeprevision.github.io/posts/001-transformer/)
 * Universal and Transferable Attacks on Aligned Language Models [[Paper]](https://llm-attacks.org)
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 * Graph of Thoughts: Solving Elaborate Problems with LLMs [[Paper]](https://arxiv.org/abs/2308.09687)
 * Personality Traits in Large Language Models [[Paper]](https://arxiv.org/abs/2307.00184)
 * Whose Opinions Do Language Models Reflect? [[Paper]](https://arxiv.org/abs/2303.17548)
+* The Rise and Potential of Large Language Model Based Agents: A Survey [[Paper]](https://arxiv.org/abs/2309.07864)
 * A Survey on LLM-based Autonomous Agents [[Paper]](https://arxiv.org/abs/2308.11432)
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 
@@ -67,7 +71,7 @@
 * Focal Loss for Dense Object Detection [[Paper]](https://arxiv.org/abs/1708.02002)
 * Cyclical Learning Rates for Training Neural Networks [[Paper]](https://arxiv.org/abs/1506.01186)
 * Entity Embeddings of Categorical Variables [[Paper]](https://arxiv.org/abs/1604.06737)
-* Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning [[Paper]](https://arxiv.org/abs/1609.06570)
+* Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in ML [[Paper]](https://arxiv.org/abs/1609.06570)
 * An Overview of Gradient Descent Optimization Algorithms [[Blogpost]](https://ruder.io/optimizing-gradient-descent/)
 * An Updated Overview of Gradient Descent Optimization Algorithms [[Blogpost]](https://johnchenresearch.github.io/demon/)
 * A Recipe for Training Neural Networks[[Blogpost]](https://karpathy.github.io/2019/04/25/recipe/)
