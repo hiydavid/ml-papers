@@ -18,13 +18,14 @@
 * A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 
 ### Courses
+* ML Engineering for Production Specialization [[Course]](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/)
 * Efficient Fine-Tuning for Llama-v2-7b on a Single GPU [[Course]](https://www.youtube.com/watch?v=g68qlo9Izf0)
 * Understanding and Applying Text Embeddings with Vertex AI [[Course]](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/)
 * Finetune Large Language Models [[Course]](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 * LLMs: Foundation Models from the Ground Up [[Courses]](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWjMCDahwdVye8HW69p5NYS)
 * LLMs with Semantic Search [[Course]](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
-* Evaluating and Debugging Generative AI [[Course]](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
 * Training and Fine-Tuning LLMs [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
+* Pair Programming with a LLM [[Course]](https://www.deeplearning.ai/short-courses/pair-programming-llm/)
 
 ## Done
 ### Large Language Model
@@ -52,6 +53,7 @@
 ### LLM Courses
 * LLMs: Application Through Production [[Course]](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm)
 * Generative AI with Large Language Models [[Course]](https://www.coursera.org/learn/generative-ai-with-llms)
+* Evaluating and Debugging Generative AI [[Course]](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
 * Building LLM-Powered Apps [[Course]](https://www.wandb.courses/courses/building-llm-powered-apps)
 * LangChain: Chat with Your Data [[Course]](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 * LangChain for LLM Application Development [[Course]](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
