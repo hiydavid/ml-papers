@@ -2,6 +2,7 @@
 
 ## To-Do
 ### Papers / Blogs
+* What Should Data Science Education Do with LLMs? [[Paper]](https://arxiv.org/abs/2307.02792)
 * Chain-of-Verification Reduces Hallucination in LLMs [[Paper]](https://arxiv.org/abs/2309.11495)
 * PDFTriage: Question Answering over Long, Structured Documents [[Paper]](https://arxiv.org/abs/2309.08872)
 * From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting [[Paper]](https://arxiv.org/abs/2309.04269)
