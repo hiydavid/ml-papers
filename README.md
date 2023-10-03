@@ -2,14 +2,12 @@
 
 ## To-Do
 ### Papers / Blogs
-* Chain-of-Verification Reduces Hallucination in LLMs [[Paper]](https://arxiv.org/abs/2309.11495)
 * PDFTriage: Question Answering over Long, Structured Documents [[Paper]](https://arxiv.org/abs/2309.08872)
 * From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting [[Paper]](https://arxiv.org/abs/2309.04269)
 * MRKL Systems: Modular Reasoning, Knowledge and Language [[Paper]](https://arxiv.org/abs/2205.00445)
 * RLHF: Reinforcement Learning from Human Feedback [[Blogpost]](https://huyenchip.com/2023/05/02/rlhf.html)
 * The Transformer Blueprint [[Blogpost]](https://deeprevision.github.io/posts/001-transformer/)
 * Universal and Transferable Attacks on Aligned Language Models [[Paper]](https://llm-attacks.org)
-* ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 * Graph of Thoughts: Solving Elaborate Problems with LLMs [[Paper]](https://arxiv.org/abs/2308.09687)
 * Personality Traits in Large Language Models [[Paper]](https://arxiv.org/abs/2307.00184)
 * Whose Opinions Do Language Models Reflect? [[Paper]](https://arxiv.org/abs/2303.17548)
@@ -28,10 +26,12 @@
 
 ## Done
 ### Large Language Model
+* Chain-of-Verification Reduces Hallucination in LLMs [[Paper]](https://arxiv.org/abs/2309.11495)
 * Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * Navigating the Jagged Technological Frontier [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
 * Emerging Architectures for LLM Applications [[Blogpost]](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
+* ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 * Patterns for Building LLM-based Systems & Products [[Blogpost]](https://eugeneyan.com/writing/llm-patterns/)
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
 * Chain-of-Thought Prompting Elicits Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2201.11903)
