@@ -26,28 +26,31 @@
 
 ## Done
 ### Large Language Model
-* Chain-of-Verification Reduces Hallucination in LLMs [[Paper]](https://arxiv.org/abs/2309.11495)
 * Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * Navigating the Jagged Technological Frontier [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
 * Emerging Architectures for LLM Applications [[Blogpost]](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
-* ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 * Patterns for Building LLM-based Systems & Products [[Blogpost]](https://eugeneyan.com/writing/llm-patterns/)
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
-* Chain-of-Thought Prompting Elicits Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2201.11903)
-* Tree of Thoughts: Deliberate Problem Solving with LLMs [[Paper]](https://arxiv.org/abs/2305.10601)
-* LLM-Rec: Personalized Recommendation via Prompting LLMs [[Ppaer]](https://arxiv.org/abs/2307.15780)
 * Open Problems and Fundamental Limitations of RLHF [[Paper]](https://arxiv.org/abs/2307.15217)
 * Why AI Will Save The World [[Blogpost]](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 * Google "We Have No Moat, And Neither Does OpenAI" [[Blogpost]](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * Attention Is All Your Need [[Paper]](https://arxiv.org/abs/1706.03762)
 * Sparks of Artificial General Intelligence: Early Experiments with GPT-4 [[Paper]](https://arxiv.org/pdf/2303.12712.pdf)
+* The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) [[Paper]](https://arxiv.org/abs/2309.17421)
 * The Annotated Transformer [[Blogpost]](http://nlp.seas.harvard.edu/annotated-transformer/)
 * The Illustrated Transformer [[Blogpost]](https://jalammar.github.io/illustrated-transformer/)
 * The Illustrated GPT-2: Visualize Transformer Language Models [[Blogpost]](https://jalammar.github.io/illustrated-gpt2/)
 * How GPT3 Works: Visualizations and Animations [[Blogpost]](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * Five Years of GPT Progress [[Blogpost]](https://finbarr.ca/five-years-of-gpt-progress/)
 * Understanding Large Language Models [[Blogpost]](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+
+### LLM Prompting
+* Chain-of-Verification Reduces Hallucination in LLMs [[Paper]](https://arxiv.org/abs/2309.11495)
+* ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
+* Chain-of-Thought Prompting Elicits Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2201.11903)
+* Tree of Thoughts: Deliberate Problem Solving with LLMs [[Paper]](https://arxiv.org/abs/2305.10601)
+* LLM-Rec: Personalized Recommendation via Prompting LLMs [[Ppaer]](https://arxiv.org/abs/2307.15780)
 
 ### LLM Courses
 * LLMs: Application Through Production [[Course]](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm)
