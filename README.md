@@ -22,7 +22,6 @@
 * Finetune Large Language Models [[Course]](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 * LLMs: Foundation Models from the Ground Up [[Courses]](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWjMCDahwdVye8HW69p5NYS)
 * Training and Fine-Tuning LLMs [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
-* Pair Programming with a LLM [[Course]](https://www.deeplearning.ai/short-courses/pair-programming-llm/)
 
 ## Done
 ### Large Language Model
@@ -54,6 +53,7 @@
 
 ### LLM Courses
 * LLMs: Application Through Production [[Course]](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm)
+* Pair Programming with a LLM [[Course]](https://www.deeplearning.ai/short-courses/pair-programming-llm/)
 * Generative AI with Large Language Models [[Course]](https://www.coursera.org/learn/generative-ai-with-llms)
 * LLMs with Semantic Search [[Course]](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
 * Evaluating and Debugging Generative AI [[Course]](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
