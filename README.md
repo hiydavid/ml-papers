@@ -52,16 +52,10 @@
 * LLM-Rec: Personalized Recommendation via Prompting LLMs [[Ppaer]](https://arxiv.org/abs/2307.15780)
 
 ### LLM Courses
+* DeepLearning.AI LLM Short Courses [[Course]](https://www.deeplearning.ai/short-courses/)
 * LLMs: Application Through Production [[Course]](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm)
-* Pair Programming with a LLM [[Course]](https://www.deeplearning.ai/short-courses/pair-programming-llm/)
 * Generative AI with Large Language Models [[Course]](https://www.coursera.org/learn/generative-ai-with-llms)
-* LLMs with Semantic Search [[Course]](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
-* Evaluating and Debugging Generative AI [[Course]](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
 * Building LLM-Powered Apps [[Course]](https://www.wandb.courses/courses/building-llm-powered-apps)
-* LangChain: Chat with Your Data [[Course]](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
-* LangChain for LLM Application Development [[Course]](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
-* Building Systems with the ChatGPT API [[Course]](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
-* ChatGPT Prompt Engineering for Developers [[Course]](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 * The Full Stack LLM Bootcamp [[Course]](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 * Neural Networks From Zero to Hero [[Course]](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
