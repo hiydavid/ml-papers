@@ -4,6 +4,7 @@
 ### Papers / Blogs
 * PDFTriage: Question Answering over Long, Structured Documents [[Paper]](https://arxiv.org/abs/2309.08872)
 * From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting [[Paper]](https://arxiv.org/abs/2309.04269)
+* LLMs are Zero-Shot Time Series Forecasters [[Paper]](https://arxiv.org/abs/2310.07820)
 * MRKL Systems: Modular Reasoning, Knowledge and Language [[Paper]](https://arxiv.org/abs/2205.00445)
 * RLHF: Reinforcement Learning from Human Feedback [[Blogpost]](https://huyenchip.com/2023/05/02/rlhf.html)
 * The Transformer Blueprint [[Blogpost]](https://deeprevision.github.io/posts/001-transformer/)
