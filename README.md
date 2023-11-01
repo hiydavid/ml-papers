@@ -8,17 +8,9 @@
 * Table-GPT: Table-tuned GPT for Diverse Table Tasks [[Paper]](https://arxiv.org/abs/2310.09263)
 * MRKL Systems: Modular Reasoning, Knowledge and Language [[Paper]](https://arxiv.org/abs/2205.00445)
 * RLHF: Reinforcement Learning from Human Feedback [[Blogpost]](https://huyenchip.com/2023/05/02/rlhf.html)
-* The Transformer Blueprint [[Blogpost]](https://deeprevision.github.io/posts/001-transformer/)
-* Universal and Transferable Attacks on Aligned Language Models [[Paper]](https://llm-attacks.org)
 * Graph of Thoughts: Solving Elaborate Problems with LLMs [[Paper]](https://arxiv.org/abs/2308.09687)
-* Personality Traits in Large Language Models [[Paper]](https://arxiv.org/abs/2307.00184)
-* Whose Opinions Do Language Models Reflect? [[Paper]](https://arxiv.org/abs/2303.17548)
-* The Rise and Potential of Large Language Model Based Agents: A Survey [[Paper]](https://arxiv.org/abs/2309.07864)
-* A Survey on LLM-based Autonomous Agents [[Paper]](https://arxiv.org/abs/2308.11432)
-* A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223)
 
 ### Courses
-* ML Engineering for Production Specialization [[Course]](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/)
 * Efficient Fine-Tuning for Llama-v2-7b on a Single GPU [[Course]](https://www.youtube.com/watch?v=g68qlo9Izf0)
 * Understanding and Applying Text Embeddings with Vertex AI [[Course]](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/)
 * Finetune Large Language Models [[Course]](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
@@ -53,7 +45,8 @@
 * Tree of Thoughts: Deliberate Problem Solving with LLMs [[Paper]](https://arxiv.org/abs/2305.10601)
 * LLM-Rec: Personalized Recommendation via Prompting LLMs [[Ppaer]](https://arxiv.org/abs/2307.15780)
 
-### LLM Courses
+### LLM / ML Courses
+* ML Engineering for Production Specialization [[Course]](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/)
 * DeepLearning.AI LLM Short Courses [[Course]](https://www.deeplearning.ai/short-courses/)
 * LLMs: Application Through Production [[Course]](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm)
 * Generative AI with Large Language Models [[Course]](https://www.coursera.org/learn/generative-ai-with-llms)
