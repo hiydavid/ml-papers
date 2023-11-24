@@ -2,6 +2,7 @@
 
 ## To-Do
 ### Papers / Blogs
+* Let's Verify Step By Step [[Paper]](https://arxiv.org/abs/2305.20050)
 * PDFTriage: Question Answering over Long, Structured Documents [[Paper]](https://arxiv.org/abs/2309.08872)
 * From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting [[Paper]](https://arxiv.org/abs/2309.04269)
 * LLMs Are Zero-Shot Time Series Forecasters [[Paper]](https://arxiv.org/abs/2310.07820)
