@@ -3,6 +3,9 @@
 ## To-Do
 ### Papers / Blogs
 * Let's Verify Step By Step [[Paper]](https://arxiv.org/abs/2305.20050)
+* Mixture of Experts Explained [[Blog]](https://huggingface.co/blog/moe)
+* Steering at the Frontier [[Blog]](https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/)
+* Large Language Models on Graphs: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/2312.02783)
 * PDFTriage: Question Answering over Long, Structured Documents [[Paper]](https://arxiv.org/abs/2309.08872)
 * From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting [[Paper]](https://arxiv.org/abs/2309.04269)
 * LLMs Are Zero-Shot Time Series Forecasters [[Paper]](https://arxiv.org/abs/2310.07820)
