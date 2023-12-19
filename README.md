@@ -7,7 +7,6 @@
 * Can Generalist Foundation Models Outcompete Special-Purpose Tuning? [[Paper]](https://arxiv.org/abs/2311.16452)
 * Steering at the Frontier [[Blogpost]](https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/)
 * Large Language Models on Graphs: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/2312.02783)
-* OpenAI's Prompt Engineering Guide [[Blogpost]](https://platform.openai.com/docs/guides/prompt-engineering)
 * Relational Deep Learning: Graph Representation Learning on Relational Databases [[Paper]](https://arxiv.org/abs/2312.04615)
 * PDFTriage: Question Answering over Long, Structured Documents [[Paper]](https://arxiv.org/abs/2309.08872)
 * From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting [[Paper]](https://arxiv.org/abs/2309.04269)
@@ -25,12 +24,9 @@
 * Training and Fine-Tuning LLMs [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
 
 ## Done
-### Large Language Model
-* Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
+### Large Language Models
 * Navigating the Jagged Technological Frontier [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
-* Emerging Architectures for LLM Applications [[Blogpost]](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
-* Patterns for Building LLM-based Systems & Products [[Blogpost]](https://eugeneyan.com/writing/llm-patterns/)
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
 * Open Problems and Fundamental Limitations of RLHF [[Paper]](https://arxiv.org/abs/2307.15217)
 * Why AI Will Save The World [[Blogpost]](https://a16z.com/2023/06/06/ai-will-save-the-world/)
@@ -45,7 +41,14 @@
 * Five Years of GPT Progress [[Blogpost]](https://finbarr.ca/five-years-of-gpt-progress/)
 * Understanding Large Language Models [[Blogpost]](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 
+### LLM Applications
+* Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
+* Best Practices for LLM Evaluation of RAG Applications [[Blogpost]](https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG)
+* Emerging Architectures for LLM Applications [[Blogpost]](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
+* Patterns for Building LLM-based Systems & Products [[Blogpost]](https://eugeneyan.com/writing/llm-patterns/)
+
 ### LLM Prompting
+* OpenAI Prompt Engineering Guide [[Blogpost]](https://platform.openai.com/docs/guides/prompt-engineering)
 * Chain-of-Verification Reduces Hallucination in LLMs [[Paper]](https://arxiv.org/abs/2309.11495)
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 * Chain-of-Thought Prompting Elicits Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2201.11903)
