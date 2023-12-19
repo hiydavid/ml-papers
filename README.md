@@ -3,8 +3,9 @@
 ## To-Do
 ### Papers / Blogs
 * Let's Verify Step By Step [[Paper]](https://arxiv.org/abs/2305.20050)
-* Mixture of Experts Explained [[Blog]](https://huggingface.co/blog/moe)
-* Steering at the Frontier [[Blog]](https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/)
+* Mixture of Experts Explained [[Blogpost]](https://huggingface.co/blog/moe)
+* Can Generalist Foundation Models Outcompete Special-Purpose Tuning? [[Paper]](https://arxiv.org/abs/2311.16452)
+* Steering at the Frontier [[Blogpost]](https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/)
 * Large Language Models on Graphs: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/2312.02783)
 * OpenAI's Prompt Engineering Guide [[Blogpost]](https://platform.openai.com/docs/guides/prompt-engineering)
 * Relational Deep Learning: Graph Representation Learning on Relational Databases [[Paper]](https://arxiv.org/abs/2312.04615)
