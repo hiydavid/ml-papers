@@ -2,8 +2,7 @@
 
 ## To-Do
 ### Papers / Blogs
-* Let's Verify Step By Step [[Paper]](https://arxiv.org/abs/2305.20050)
-* Mixture of Experts Explained [[Blogpost]](https://huggingface.co/blog/moe)
+* Perspectives on the State and Future of Deep Learning (2023)ß [[Paper]](https://arxiv.org/abs/2312.09323)
 * Can Generalist Foundation Models Outcompete Special-Purpose Tuning? [[Paper]](https://arxiv.org/abs/2311.16452)
 * Steering at the Frontier [[Blogpost]](https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/)
 * Large Language Models on Graphs: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/2312.02783)
@@ -25,8 +24,10 @@
 
 ## Done
 ### Large Language Models
+* Let's Verify Step By Step [[Paper]](https://arxiv.org/abs/2305.20050)
 * Navigating the Jagged Technological Frontier [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
+* Mixture of Experts Explained [[Blogpost]](https://huggingface.co/blog/moe)
 * Challenges and Applications of Large Language Models [[Paper]](https://arxiv.org/abs/2307.10169)
 * Open Problems and Fundamental Limitations of RLHF [[Paper]](https://arxiv.org/abs/2307.15217)
 * Why AI Will Save The World [[Blogpost]](https://a16z.com/2023/06/06/ai-will-save-the-world/)
