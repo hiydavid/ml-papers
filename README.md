@@ -2,9 +2,7 @@
 
 ## To-Do
 ### Papers / Blogs
-* Perspectives on the State and Future of Deep Learning (2023)ß [[Paper]](https://arxiv.org/abs/2312.09323)
-* Can Generalist Foundation Models Outcompete Special-Purpose Tuning? [[Paper]](https://arxiv.org/abs/2311.16452)
-* Steering at the Frontier [[Blogpost]](https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/)
+* Perspectives on the State and Future of Deep Learning (2023) [[Paper]](https://arxiv.org/abs/2312.09323)
 * Large Language Models on Graphs: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/2312.02783)
 * Relational Deep Learning: Graph Representation Learning on Relational Databases [[Paper]](https://arxiv.org/abs/2312.04615)
 * PDFTriage: Question Answering over Long, Structured Documents [[Paper]](https://arxiv.org/abs/2309.08872)
@@ -24,6 +22,8 @@
 
 ## Done
 ### Large Language Models
+* Can Generalist Foundation Models Outcompete Special-Purpose Tuning? [[Paper]](https://arxiv.org/abs/2311.16452)
+* Steering at the Frontier [[Blogpost]](https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/)
 * Let's Verify Step By Step [[Paper]](https://arxiv.org/abs/2305.20050)
 * Navigating the Jagged Technological Frontier [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 * AI Canon [[Blogpost]](https://a16z.com/2023/05/25/ai-canon/)
