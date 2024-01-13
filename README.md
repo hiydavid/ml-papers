@@ -14,7 +14,6 @@
 * Exploiting Novel GPT-4 APIs [[Paper]](https://arxiv.org/abs/2312.14302)
 * Do Androids Know They're Only Dreaming of Electric Sheep? [[Paper]](https://arxiv.org/abs/2312.17249)
 * Retrieval-Augmented Generation for Large Language Models: A Survey [[Paper]](https://arxiv.org/abs/2312.10997)
-* Mixtral of Experts [[Paper]](https://arxiv.org/abs/2401.04088)
 * Are ChatGPT and GPT-4 General-Purpose Solvers for Financial Text Analytics? [[Paper]](https://arxiv.org/abs/2305.05862)
 * Direct Preference Optimization: Your Language Model is Secretly a Reward Model [[Paper]](https://arxiv.org/abs/2305.18290)
 * Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM [[Paper]](https://arxiv.org/abs/2401.02994)
@@ -35,6 +34,7 @@
 
 ## Done
 ### Large Language Models
+* Mixtral of Experts [[Paper]](https://arxiv.org/abs/2401.04088)
 * Can Generalist Foundation Models Outcompete Special-Purpose Tuning? [[Paper]](https://arxiv.org/abs/2311.16452)
 * Let's Verify Step By Step [[Paper]](https://arxiv.org/abs/2305.20050)
 * Navigating the Jagged Technological Frontier [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
