@@ -2,6 +2,22 @@
 
 ## To-Do
 ### Papers / Blogs
+* Generative AI at Work [[Paper]](https://www.nber.org/papers/w31161)
+* Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics [[Paper]](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
+* War and Peace (WarAgent): LLM-based Multi-Agent Simulation of World Wars [[Paper]](https://arxiv.org/abs/2311.17227)
+* Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection [[Paper]](https://arxiv.org/abs/2310.11511)
+* Mathematical Discoveries from Program Search with LLMs [[Paper]](https://www.nature.com/articles/s41586-023-06924-6)
+* Evaluating Large Language Models: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/2310.19736)
+* Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks [[Paper]](https://arxiv.org/abs/2311.09247)
+* HyperFast: Instant Classification for Tabular Data [[Paper]](https://openreview.net/forum?id=VRBhaU8IDz)
+* ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent [[Paper]](https://arxiv.org/abs/2312.10003)
+* Exploiting Novel GPT-4 APIs [[Paper]](https://arxiv.org/abs/2312.14302)
+* Do Androids Know They're Only Dreaming of Electric Sheep? [[Paper]](https://arxiv.org/abs/2312.17249)
+* Retrieval-Augmented Generation for Large Language Models: A Survey [[Paper]](https://arxiv.org/abs/2312.10997)
+* Mixtral of Experts [[Paper]](https://arxiv.org/abs/2401.04088)
+* Are ChatGPT and GPT-4 General-Purpose Solvers for Financial Text Analytics? [[Paper]](https://arxiv.org/abs/2305.05862)
+* Direct Preference Optimization: Your Language Model is Secretly a Reward Model [[Paper]](https://arxiv.org/abs/2305.18290)
+* Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM [[Paper]](https://arxiv.org/abs/2401.02994)
 * Large Language Models on Graphs: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/2312.02783)
 * Relational Deep Learning: Graph Representation Learning on Relational Databases [[Paper]](https://arxiv.org/abs/2312.04615)
 * PDFTriage: Question Answering over Long, Structured Documents [[Paper]](https://arxiv.org/abs/2309.08872)
