@@ -26,7 +26,6 @@
 * Table-GPT: Table-tuned GPT for Diverse Table Tasks [[Paper]](https://arxiv.org/abs/2310.09263)
 * MRKL Systems: Modular Reasoning, Knowledge and Language [[Paper]](https://arxiv.org/abs/2205.00445)
 * RLHF: Reinforcement Learning from Human Feedback [[Blogpost]](https://huyenchip.com/2023/05/02/rlhf.html)
-* Graph of Thoughts: Solving Elaborate Problems with LLMs [[Paper]](https://arxiv.org/abs/2308.09687)
 
 ### Courses
 * Efficient Fine-Tuning for Llama-v2-7b on a Single GPU [[Course]](https://www.youtube.com/watch?v=g68qlo9Izf0)
@@ -64,6 +63,7 @@
 
 ### LLM Prompting
 * OpenAI Prompt Engineering Guide [[Blogpost]](https://platform.openai.com/docs/guides/prompt-engineering)
+* Graph of Thoughts: Solving Elaborate Problems with LLMs [[Paper]](https://arxiv.org/abs/2308.09687)
 * Chain-of-Verification Reduces Hallucination in LLMs [[Paper]](https://arxiv.org/abs/2309.11495)
 * ReAct: Synergizing Reasoning and Acting in Language Models [[Paper]](https://arxiv.org/abs/2210.03629)
 * Chain-of-Thought Prompting Elicits Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2201.11903)
