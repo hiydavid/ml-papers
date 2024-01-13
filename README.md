@@ -25,7 +25,6 @@
 * LLMs Are Zero-Shot Time Series Forecasters [[Paper]](https://arxiv.org/abs/2310.07820)
 * Table-GPT: Table-tuned GPT for Diverse Table Tasks [[Paper]](https://arxiv.org/abs/2310.09263)
 * MRKL Systems: Modular Reasoning, Knowledge and Language [[Paper]](https://arxiv.org/abs/2205.00445)
-* RLHF: Reinforcement Learning from Human Feedback [[Blogpost]](https://huyenchip.com/2023/05/02/rlhf.html)
 
 ### Courses
 * Efficient Fine-Tuning for Llama-v2-7b on a Single GPU [[Course]](https://www.youtube.com/watch?v=g68qlo9Izf0)
@@ -54,6 +53,7 @@
 * How GPT3 Works: Visualizations and Animations [[Blogpost]](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * Five Years of GPT Progress [[Blogpost]](https://finbarr.ca/five-years-of-gpt-progress/)
 * Understanding Large Language Models [[Blogpost]](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+* RLHF: Reinforcement Learning from Human Feedback [[Blogpost]](https://huyenchip.com/2023/05/02/rlhf.html)
 
 ### LLM Applications
 * Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
