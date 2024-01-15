@@ -22,6 +22,7 @@
 * PDFTriage: Question Answering over Long, Structured Documents [[Paper]](https://arxiv.org/abs/2309.08872)
 * From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting [[Paper]](https://arxiv.org/abs/2309.04269)
 * LLMs Are Zero-Shot Time Series Forecasters [[Paper]](https://arxiv.org/abs/2310.07820)
+* Rethinking Tabular Data Understanding with Large Language Models [[Paper]](https://arxiv.org/abs/2312.16702)
 * Table-GPT: Table-tuned GPT for Diverse Table Tasks [[Paper]](https://arxiv.org/abs/2310.09263)
 * MRKL Systems: Modular Reasoning, Knowledge and Language [[Paper]](https://arxiv.org/abs/2205.00445)
 
