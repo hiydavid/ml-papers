@@ -2,6 +2,7 @@
 
 ## To-Do
 ### Papers / Blogs
+* RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture [[Paper]](https://arxiv.org/abs/2401.08406)
 * Generative AI at Work [[Paper]](https://www.nber.org/papers/w31161)
 * Lakehouse: A New Generation of Open Platforms [[Paper]](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
 * War and Peace (WarAgent): LLM-based Multi-Agent Simulation of World Wars [[Paper]](https://arxiv.org/abs/2311.17227)
