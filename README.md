@@ -2,6 +2,7 @@
 
 ## To-Do
 ### Papers / Blogs
+* Self-Rewarding Language Models [[Paper]](https://arxiv.org/abs/2401.10020)
 * RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture [[Paper]](https://arxiv.org/abs/2401.08406)
 * Generative AI at Work [[Paper]](https://www.nber.org/papers/w31161)
 * Lakehouse: A New Generation of Open Platforms [[Paper]](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
