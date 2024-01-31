@@ -2,6 +2,12 @@
 
 ## To-Do
 ### Papers / Blogs
+* The Power of Noise: Redefining Retrieval for RAG Systems [[Paper]](https://arxiv.org/abs/2401.14887)
+* MM-LLMs: Recent Advances in MultiModal Large Language Models [[Paper]](https://arxiv.org/abs/2401.13601)
+* Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding [[Paper]](https://arxiv.org/abs/2401.04398)
+* Rethinking Tabular Data Understanding with Large Language Models [[Paper]](https://arxiv.org/abs/2312.16702)
+* Corrective Retrieval Augmented Generation [[Paper]](https://arxiv.org/abs/2401.15884)
+* Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs [[Paper]](https://arxiv.org/abs/2312.05934)
 * Self-Rewarding Language Models [[Paper]](https://arxiv.org/abs/2401.10020)
 * RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture [[Paper]](https://arxiv.org/abs/2401.08406)
 * Generative AI at Work [[Paper]](https://www.nber.org/papers/w31161)
