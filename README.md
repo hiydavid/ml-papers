@@ -11,7 +11,6 @@
 * Self-Rewarding Language Models [[Paper]](https://arxiv.org/abs/2401.10020)
 * RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture [[Paper]](https://arxiv.org/abs/2401.08406)
 * Generative AI at Work [[Paper]](https://www.nber.org/papers/w31161)
-* Lakehouse: A New Generation of Open Platforms [[Paper]](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
 * War and Peace (WarAgent): LLM-based Multi-Agent Simulation of World Wars [[Paper]](https://arxiv.org/abs/2311.17227)
 * Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection [[Paper]](https://arxiv.org/abs/2310.11511)
 * Mathematical Discoveries from Program Search with LLMs [[Paper]](https://www.nature.com/articles/s41586-023-06924-6)
@@ -89,6 +88,7 @@
 * Neural Networks From Zero to Hero [[Course]](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
 ### Machine Learning General
+* Lakehouse: A New Generation of Open Platforms [[Paper]](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
 * Machine Learning and Causality: The Impact of Financial Crises on Growth [[Paper]](shorturl.at/izFMR)
 * A Comparative Study of Hyper-Parameter Optimization Tools [[Paper]](https://arxiv.org/abs/2201.06433)
 * WeightedSHAP: analyzing and improving Shapley based feature attributions [[Paper]](https://arxiv.org/abs/2209.13429)
