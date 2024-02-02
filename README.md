@@ -9,8 +9,6 @@
 * Corrective Retrieval Augmented Generation [[Paper]](https://arxiv.org/abs/2401.15884)
 * Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs [[Paper]](https://arxiv.org/abs/2312.05934)
 * Self-Rewarding Language Models [[Paper]](https://arxiv.org/abs/2401.10020)
-* RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture [[Paper]](https://arxiv.org/abs/2401.08406)
-* Generative AI at Work [[Paper]](https://www.nber.org/papers/w31161)
 * War and Peace (WarAgent): LLM-based Multi-Agent Simulation of World Wars [[Paper]](https://arxiv.org/abs/2311.17227)
 * Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection [[Paper]](https://arxiv.org/abs/2310.11511)
 * Mathematical Discoveries from Program Search with LLMs [[Paper]](https://www.nature.com/articles/s41586-023-06924-6)
@@ -68,6 +66,7 @@
 * Best Practices for LLM Evaluation of RAG Applications [[Blogpost]](https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG)
 * Emerging Architectures for LLM Applications [[Blogpost]](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 * Patterns for Building LLM-based Systems & Products [[Blogpost]](https://eugeneyan.com/writing/llm-patterns/)
+* RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture [[Paper]](https://arxiv.org/abs/2401.08406)
 
 ### LLM Prompting
 * OpenAI Prompt Engineering Guide [[Blogpost]](https://platform.openai.com/docs/guides/prompt-engineering)
