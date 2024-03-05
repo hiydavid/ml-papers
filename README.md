@@ -2,6 +2,7 @@
 
 ## To-Do
 ### Papers / Blogs
+* RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval [[Paper]](https://arxiv.org/abs/2401.18059)
 * The Power of Noise: Redefining Retrieval for RAG Systems [[Paper]](https://arxiv.org/abs/2401.14887)
 * MM-LLMs: Recent Advances in MultiModal Large Language Models [[Paper]](https://arxiv.org/abs/2401.13601)
 * Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding [[Paper]](https://arxiv.org/abs/2401.04398)
