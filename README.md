@@ -2,7 +2,6 @@
 
 ## To-Do
 ### Papers / Blogs
-* The Power of Noise: Redefining Retrieval for RAG Systems [[Paper]](https://arxiv.org/abs/2401.14887)
 * MM-LLMs: Recent Advances in MultiModal Large Language Models [[Paper]](https://arxiv.org/abs/2401.13601)
 * Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding [[Paper]](https://arxiv.org/abs/2401.04398)
 * Rethinking Tabular Data Understanding with Large Language Models [[Paper]](https://arxiv.org/abs/2312.16702)
@@ -62,6 +61,7 @@
 * RLHF: Reinforcement Learning from Human Feedback [[Blogpost]](https://huyenchip.com/2023/05/02/rlhf.html)
 
 ### LLM Applications
+* DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines [[Paper]](https://arxiv.org/abs/2310.03714)
 * RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval [[Paper]](https://arxiv.org/abs/2401.18059)
 * Building LLM Applications for Production [[Blogpost]](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * Best Practices for LLM Evaluation of RAG Applications [[Blogpost]](https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG)
