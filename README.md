@@ -2,7 +2,6 @@
 
 ## To-Do
 ### Papers / Blogs
-* MM-LLMs: Recent Advances in MultiModal Large Language Models [[Paper]](https://arxiv.org/abs/2401.13601)
 * Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding [[Paper]](https://arxiv.org/abs/2401.04398)
 * Rethinking Tabular Data Understanding with Large Language Models [[Paper]](https://arxiv.org/abs/2312.16702)
 * Corrective Retrieval Augmented Generation [[Paper]](https://arxiv.org/abs/2401.15884)
