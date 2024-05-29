@@ -29,13 +29,6 @@
 * Table-GPT: Table-tuned GPT for Diverse Table Tasks [[Paper]](https://arxiv.org/abs/2310.09263)
 * MRKL Systems: Modular Reasoning, Knowledge and Language [[Paper]](https://arxiv.org/abs/2205.00445)
 
-### Courses
-* Efficient Fine-Tuning for Llama-v2-7b on a Single GPU [[Course]](https://www.youtube.com/watch?v=g68qlo9Izf0)
-* Understanding and Applying Text Embeddings with Vertex AI [[Course]](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/)
-* Finetune Large Language Models [[Course]](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
-* LLMs: Foundation Models from the Ground Up [[Courses]](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWjMCDahwdVye8HW69p5NYS)
-* Training and Fine-Tuning LLMs [[Course]](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
-
 ## Done
 ### Large Language Models
 * Mixtral of Experts [[Paper]](https://arxiv.org/abs/2401.04088)
@@ -81,6 +74,7 @@
 * ML Engineering for Production Specialization [[Course]](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/)
 * DeepLearning.AI LLM Short Courses [[Course]](https://www.deeplearning.ai/short-courses/)
 * LLMs: Application Through Production [[Course]](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm)
+* LLMs: Foundation Models from the Ground Up [[Courses]](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWjMCDahwdVye8HW69p5NYS)
 * Generative AI with Large Language Models [[Course]](https://www.coursera.org/learn/generative-ai-with-llms)
 * Building LLM-Powered Apps [[Course]](https://www.wandb.courses/courses/building-llm-powered-apps)
 * The Full Stack LLM Bootcamp [[Course]](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
